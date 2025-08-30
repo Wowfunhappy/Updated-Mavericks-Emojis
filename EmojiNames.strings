@@ -1,0 +1,2924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABACUS</key>
+	<string>Abacus</string>
+	<key>ACCORDION</key>
+	<string>Accordion</string>
+	<key>ADHESIVE BANDAGE</key>
+	<string>Adhesive Bandage</string>
+	<key>ADMISSION TICKETS</key>
+	<string>Admission Tickets</string>
+	<key>ADULT</key>
+	<string>Adult</string>
+	<key>AERIAL TRAMWAY</key>
+	<string>Aerial Tramway</string>
+	<key>AIRPLANE</key>
+	<string>Airplane</string>
+	<key>AIRPLANE ARRIVING</key>
+	<string>Airplane Arriving</string>
+	<key>AIRPLANE DEPARTURE</key>
+	<string>Airplane Departure</string>
+	<key>ALARM CLOCK</key>
+	<string>Alarm Clock</string>
+	<key>ALEMBIC</key>
+	<string>Alembic</string>
+	<key>ALIEN MONSTER</key>
+	<string>Alien Monster</string>
+	<key>AMBULANCE</key>
+	<string>Ambulance</string>
+	<key>AMERICAN FOOTBALL</key>
+	<string>American Football</string>
+	<key>AMPHORA</key>
+	<string>Amphora</string>
+	<key>ANATOMICAL HEART</key>
+	<string>Anatomical Heart</string>
+	<key>ANCHOR</key>
+	<string>Anchor</string>
+	<key>ANGER SYMBOL</key>
+	<string>Anger Symbol</string>
+	<key>ANGRY FACE</key>
+	<string>Angry Face</string>
+	<key>ANGUISHED FACE</key>
+	<string>Anguished Face</string>
+	<key>ANT</key>
+	<string>Ant</string>
+	<key>ANTENNA WITH BARS</key>
+	<string>Antenna With Bars</string>
+	<key>ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS</key>
+	<string>Anticlockwise Downwards And Upwards Open Circle Arrows</string>
+	<key>AQUARIUS</key>
+	<string>Aquarius</string>
+	<key>ARIES</key>
+	<string>Aries</string>
+	<key>ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS</key>
+	<string>Arrow Pointing Rightwards Then Curving Downwards</string>
+	<key>ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS</key>
+	<string>Arrow Pointing Rightwards Then Curving Upwards</string>
+	<key>ARTICULATED LORRY</key>
+	<string>Articulated Lorry</string>
+	<key>ARTIST PALETTE</key>
+	<string>Artist Palette</string>
+	<key>ASTERISK</key>
+	<string>Asterisk</string>
+	<key>ASTONISHED FACE</key>
+	<string>Astonished Face</string>
+	<key>ATHLETIC SHOE</key>
+	<string>Athletic Shoe</string>
+	<key>ATOM SYMBOL</key>
+	<string>Atom Symbol</string>
+	<key>AUBERGINE</key>
+	<string>Aubergine</string>
+	<key>AUTO RICKSHAW</key>
+	<string>Auto Rickshaw</string>
+	<key>AUTOMATED TELLER MACHINE</key>
+	<string>Automated Teller Machine</string>
+	<key>AUTOMOBILE</key>
+	<string>Automobile</string>
+	<key>AVOCADO</key>
+	<string>Avocado</string>
+	<key>AXE</key>
+	<string>Axe</string>
+	<key>BABY</key>
+	<string>Baby</string>
+	<key>BABY ANGEL</key>
+	<string>Baby Angel</string>
+	<key>BABY BOTTLE</key>
+	<string>Baby Bottle</string>
+	<key>BABY CHICK</key>
+	<string>Baby Chick</string>
+	<key>BABY SYMBOL</key>
+	<string>Baby Symbol</string>
+	<key>BACK WITH LEFTWARDS ARROW ABOVE</key>
+	<string>Back With Leftwards Arrow Above</string>
+	<key>BACON</key>
+	<string>Bacon</string>
+	<key>BACTRIAN CAMEL</key>
+	<string>Bactrian Camel</string>
+	<key>BADGER</key>
+	<string>Badger</string>
+	<key>BADMINTON RACQUET AND SHUTTLECOCK</key>
+	<string>Badminton Racquet And Shuttlecock</string>
+	<key>BAGEL</key>
+	<string>Bagel</string>
+	<key>BAGGAGE CLAIM</key>
+	<string>Baggage Claim</string>
+	<key>BAGUETTE BREAD</key>
+	<string>Baguette Bread</string>
+	<key>BALL OF YARN</key>
+	<string>Ball Of Yarn</string>
+	<key>BALLET SHOES</key>
+	<string>Ballet Shoes</string>
+	<key>BALLOON</key>
+	<string>Balloon</string>
+	<key>BALLOT BOX WITH BALLOT</key>
+	<string>Ballot Box With Ballot</string>
+	<key>BALLOT BOX WITH CHECK</key>
+	<string>Ballot Box With Check</string>
+	<key>BANANA</key>
+	<string>Banana</string>
+	<key>BANJO</key>
+	<string>Banjo</string>
+	<key>BANK</key>
+	<string>Bank</string>
+	<key>BANKNOTE WITH DOLLAR SIGN</key>
+	<string>Banknote With Dollar Sign</string>
+	<key>BANKNOTE WITH EURO SIGN</key>
+	<string>Banknote With Euro Sign</string>
+	<key>BANKNOTE WITH POUND SIGN</key>
+	<string>Banknote With Pound Sign</string>
+	<key>BANKNOTE WITH YEN SIGN</key>
+	<string>Banknote With Yen Sign</string>
+	<key>BAR CHART</key>
+	<string>Bar Chart</string>
+	<key>BAR OF SOAP</key>
+	<string>Bar Of Soap</string>
+	<key>BARBER POLE</key>
+	<string>Barber Pole</string>
+	<key>BASEBALL</key>
+	<string>Baseball</string>
+	<key>BASKET</key>
+	<string>Basket</string>
+	<key>BASKETBALL AND HOOP</key>
+	<string>Basketball And Hoop</string>
+	<key>BAT</key>
+	<string>Bat</string>
+	<key>BATH</key>
+	<string>Bath</string>
+	<key>BATHTUB</key>
+	<string>Bathtub</string>
+	<key>BATTERY</key>
+	<string>Battery</string>
+	<key>BEACH WITH UMBRELLA</key>
+	<string>Beach With Umbrella</string>
+	<key>BEANS</key>
+	<string>Beans</string>
+	<key>BEAR FACE</key>
+	<string>Bear Face</string>
+	<key>BEARDED PERSON</key>
+	<string>Bearded Person</string>
+	<key>BEATING HEART</key>
+	<string>Beating Heart</string>
+	<key>BEAVER</key>
+	<string>Beaver</string>
+	<key>BED</key>
+	<string>Bed</string>
+	<key>BEER MUG</key>
+	<string>Beer Mug</string>
+	<key>BEETLE</key>
+	<string>Beetle</string>
+	<key>BELL</key>
+	<string>Bell</string>
+	<key>BELL PEPPER</key>
+	<string>Bell Pepper</string>
+	<key>BELL WITH CANCELLATION STROKE</key>
+	<string>Bell With Cancellation Stroke</string>
+	<key>BELLHOP BELL</key>
+	<string>Bellhop Bell</string>
+	<key>BENTO BOX</key>
+	<string>Bento Box</string>
+	<key>BEVERAGE BOX</key>
+	<string>Beverage Box</string>
+	<key>BICYCLE</key>
+	<string>Bicycle</string>
+	<key>BICYCLIST</key>
+	<string>Bicyclist</string>
+	<key>BIKINI</key>
+	<string>Bikini</string>
+	<key>BILLED CAP</key>
+	<string>Billed Cap</string>
+	<key>BILLIARDS</key>
+	<string>Billiards</string>
+	<key>BIOHAZARD SIGN</key>
+	<string>Biohazard Sign</string>
+	<key>BIRD</key>
+	<string>Bird</string>
+	<key>BIRTHDAY CAKE</key>
+	<string>Birthday Cake</string>
+	<key>BISON</key>
+	<string>Bison</string>
+	<key>BITING LIP</key>
+	<string>Biting Lip</string>
+	<key>BLACK CHESS PAWN</key>
+	<string>Black Chess Pawn</string>
+	<key>BLACK CIRCLE FOR RECORD</key>
+	<string>Black Circle For Record</string>
+	<key>BLACK CLUB SUIT</key>
+	<string>Black Club Suit</string>
+	<key>BLACK DIAMOND SUIT</key>
+	<string>Black Diamond Suit</string>
+	<key>BLACK DOWN-POINTING DOUBLE TRIANGLE</key>
+	<string>Black Down-pointing Double Triangle</string>
+	<key>BLACK HEART</key>
+	<string>Black Heart</string>
+	<key>BLACK HEART SUIT</key>
+	<string>Black Heart Suit</string>
+	<key>BLACK LARGE SQUARE</key>
+	<string>Black Large Square</string>
+	<key>BLACK LEFT-POINTING DOUBLE TRIANGLE</key>
+	<string>Black Left-pointing Double Triangle</string>
+	<key>BLACK LEFT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR</key>
+	<string>Black Left-pointing Double Triangle With Vertical Bar</string>
+	<key>BLACK LEFT-POINTING TRIANGLE</key>
+	<string>Black Left-pointing Triangle</string>
+	<key>BLACK MEDIUM SMALL SQUARE</key>
+	<string>Black Medium Small Square</string>
+	<key>BLACK MEDIUM SQUARE</key>
+	<string>Black Medium Square</string>
+	<key>BLACK NIB</key>
+	<string>Black Nib</string>
+	<key>BLACK QUESTION MARK ORNAMENT</key>
+	<string>Black Question Mark Ornament</string>
+	<key>BLACK RIGHT-POINTING DOUBLE TRIANGLE</key>
+	<string>Black Right-pointing Double Triangle</string>
+	<key>BLACK RIGHT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR</key>
+	<string>Black Right-pointing Double Triangle With Vertical Bar</string>
+	<key>BLACK RIGHT-POINTING TRIANGLE</key>
+	<string>Black Right-pointing Triangle</string>
+	<key>BLACK RIGHT-POINTING TRIANGLE WITH DOUBLE VERTICAL BAR</key>
+	<string>Black Right-pointing Triangle With Double Vertical Bar</string>
+	<key>BLACK RIGHTWARDS ARROW</key>
+	<string>Black Rightwards Arrow</string>
+	<key>BLACK SCISSORS</key>
+	<string>Black Scissors</string>
+	<key>BLACK SMALL SQUARE</key>
+	<string>Black Small Square</string>
+	<key>BLACK SPADE SUIT</key>
+	<string>Black Spade Suit</string>
+	<key>BLACK SQUARE BUTTON</key>
+	<string>Black Square Button</string>
+	<key>BLACK SQUARE FOR STOP</key>
+	<string>Black Square For Stop</string>
+	<key>BLACK SUN WITH RAYS</key>
+	<string>Black Sun With Rays</string>
+	<key>BLACK TELEPHONE</key>
+	<string>Black Telephone</string>
+	<key>BLACK UNIVERSAL RECYCLING SYMBOL</key>
+	<string>Black Universal Recycling Symbol</string>
+	<key>BLACK UP-POINTING DOUBLE TRIANGLE</key>
+	<string>Black Up-pointing Double Triangle</string>
+	<key>BLOSSOM</key>
+	<string>Blossom</string>
+	<key>BLOWFISH</key>
+	<string>Blowfish</string>
+	<key>BLUE BOOK</key>
+	<string>Blue Book</string>
+	<key>BLUE HEART</key>
+	<string>Blue Heart</string>
+	<key>BLUEBERRIES</key>
+	<string>Blueberries</string>
+	<key>BOAR</key>
+	<string>Boar</string>
+	<key>BOMB</key>
+	<string>Bomb</string>
+	<key>BONE</key>
+	<string>Bone</string>
+	<key>BOOKMARK</key>
+	<string>Bookmark</string>
+	<key>BOOKMARK TABS</key>
+	<string>Bookmark Tabs</string>
+	<key>BOOKS</key>
+	<string>Books</string>
+	<key>BOOMERANG</key>
+	<string>Boomerang</string>
+	<key>BOTTLE WITH POPPING CORK</key>
+	<string>Bottle With Popping Cork</string>
+	<key>BOUQUET</key>
+	<string>Bouquet</string>
+	<key>BOW AND ARROW</key>
+	<string>Bow And Arrow</string>
+	<key>BOWL WITH SPOON</key>
+	<string>Bowl With Spoon</string>
+	<key>BOWLING</key>
+	<string>Bowling</string>
+	<key>BOXING GLOVE</key>
+	<string>Boxing Glove</string>
+	<key>BOY</key>
+	<string>Boy</string>
+	<key>BRAIN</key>
+	<string>Brain</string>
+	<key>BREAD</key>
+	<string>Bread</string>
+	<key>BREAST-FEEDING</key>
+	<string>Breast-feeding</string>
+	<key>BRICK</key>
+	<string>Brick</string>
+	<key>BRIDE WITH VEIL</key>
+	<string>Bride With Veil</string>
+	<key>BRIDGE AT NIGHT</key>
+	<string>Bridge At Night</string>
+	<key>BRIEFCASE</key>
+	<string>Briefcase</string>
+	<key>BRIEFS</key>
+	<string>Briefs</string>
+	<key>BROCCOLI</key>
+	<string>Broccoli</string>
+	<key>BROKEN HEART</key>
+	<string>Broken Heart</string>
+	<key>BROOM</key>
+	<string>Broom</string>
+	<key>BROWN HEART</key>
+	<string>Brown Heart</string>
+	<key>BUBBLE TEA</key>
+	<string>Bubble Tea</string>
+	<key>BUBBLES</key>
+	<string>Bubbles</string>
+	<key>BUCKET</key>
+	<string>Bucket</string>
+	<key>BUG</key>
+	<string>Bug</string>
+	<key>BUILDING CONSTRUCTION</key>
+	<string>Building Construction</string>
+	<key>BURRITO</key>
+	<string>Burrito</string>
+	<key>BUS</key>
+	<string>Bus</string>
+	<key>BUS STOP</key>
+	<string>Bus Stop</string>
+	<key>BUST IN SILHOUETTE</key>
+	<string>Bust In Silhouette</string>
+	<key>BUSTS IN SILHOUETTE</key>
+	<string>Busts In Silhouette</string>
+	<key>BUTTER</key>
+	<string>Butter</string>
+	<key>BUTTERFLY</key>
+	<string>Butterfly</string>
+	<key>CACTUS</key>
+	<string>Cactus</string>
+	<key>CALENDAR</key>
+	<string>Calendar</string>
+	<key>CALL ME HAND</key>
+	<string>Call Me Hand</string>
+	<key>CAMERA</key>
+	<string>Camera</string>
+	<key>CAMERA WITH FLASH</key>
+	<string>Camera With Flash</string>
+	<key>CAMPING</key>
+	<string>Camping</string>
+	<key>CANCEL TAG</key>
+	<string>Cancel Tag</string>
+	<key>CANCER</key>
+	<string>Cancer</string>
+	<key>CANDLE</key>
+	<string>Candle</string>
+	<key>CANDY</key>
+	<string>Candy</string>
+	<key>CANNED FOOD</key>
+	<string>Canned Food</string>
+	<key>CANOE</key>
+	<string>Canoe</string>
+	<key>CAPRICORN</key>
+	<string>Capricorn</string>
+	<key>CARD FILE BOX</key>
+	<string>Card File Box</string>
+	<key>CARD INDEX</key>
+	<string>Card Index</string>
+	<key>CARD INDEX DIVIDERS</key>
+	<string>Card Index Dividers</string>
+	<key>CAROUSEL HORSE</key>
+	<string>Carousel Horse</string>
+	<key>CARP STREAMER</key>
+	<string>Carp Streamer</string>
+	<key>CARPENTRY SAW</key>
+	<string>Carpentry Saw</string>
+	<key>CARROT</key>
+	<string>Carrot</string>
+	<key>CAT</key>
+	<string>Cat</string>
+	<key>CAT FACE</key>
+	<string>Cat Face</string>
+	<key>CAT FACE WITH TEARS OF JOY</key>
+	<string>Cat Face With Tears Of Joy</string>
+	<key>CAT FACE WITH WRY SMILE</key>
+	<string>Cat Face With Wry Smile</string>
+	<key>CHAINS</key>
+	<string>Chains</string>
+	<key>CHAIR</key>
+	<string>Chair</string>
+	<key>CHART WITH DOWNWARDS TREND</key>
+	<string>Chart With Downwards Trend</string>
+	<key>CHART WITH UPWARDS TREND</key>
+	<string>Chart With Upwards Trend</string>
+	<key>CHART WITH UPWARDS TREND AND YEN SIGN</key>
+	<string>Chart With Upwards Trend And Yen Sign</string>
+	<key>CHEERING MEGAPHONE</key>
+	<string>Cheering Megaphone</string>
+	<key>CHEESE WEDGE</key>
+	<string>Cheese Wedge</string>
+	<key>CHEQUERED FLAG</key>
+	<string>Chequered Flag</string>
+	<key>CHERRIES</key>
+	<string>Cherries</string>
+	<key>CHERRY BLOSSOM</key>
+	<string>Cherry Blossom</string>
+	<key>CHESTNUT</key>
+	<string>Chestnut</string>
+	<key>CHICKEN</key>
+	<string>Chicken</string>
+	<key>CHILD</key>
+	<string>Child</string>
+	<key>CHILDREN CROSSING</key>
+	<string>Children Crossing</string>
+	<key>CHIPMUNK</key>
+	<string>Chipmunk</string>
+	<key>CHOCOLATE BAR</key>
+	<string>Chocolate Bar</string>
+	<key>CHOPSTICKS</key>
+	<string>Chopsticks</string>
+	<key>CHRISTMAS TREE</key>
+	<string>Christmas Tree</string>
+	<key>CHURCH</key>
+	<string>Church</string>
+	<key>CINEMA</key>
+	<string>Cinema</string>
+	<key>CIRCLED IDEOGRAPH ACCEPT</key>
+	<string>Circled Ideograph Accept</string>
+	<key>CIRCLED IDEOGRAPH ADVANTAGE</key>
+	<string>Circled Ideograph Advantage</string>
+	<key>CIRCLED IDEOGRAPH CONGRATULATION</key>
+	<string>Circled Ideograph Congratulation</string>
+	<key>CIRCLED IDEOGRAPH SECRET</key>
+	<string>Circled Ideograph Secret</string>
+	<key>CIRCLED LATIN CAPITAL LETTER M</key>
+	<string>Circled Latin Capital Letter M</string>
+	<key>CIRCUS TENT</key>
+	<string>Circus Tent</string>
+	<key>CITYSCAPE</key>
+	<string>Cityscape</string>
+	<key>CITYSCAPE AT DUSK</key>
+	<string>Cityscape At Dusk</string>
+	<key>CLAPPER BOARD</key>
+	<string>Clapper Board</string>
+	<key>CLAPPING HANDS SIGN</key>
+	<string>Clapping Hands Sign</string>
+	<key>CLASSICAL BUILDING</key>
+	<string>Classical Building</string>
+	<key>CLINKING BEER MUGS</key>
+	<string>Clinking Beer Mugs</string>
+	<key>CLINKING GLASSES</key>
+	<string>Clinking Glasses</string>
+	<key>CLIPBOARD</key>
+	<string>Clipboard</string>
+	<key>CLOCK FACE EIGHT OCLOCK</key>
+	<string>Clock Face Eight Oclock</string>
+	<key>CLOCK FACE EIGHT-THIRTY</key>
+	<string>Clock Face Eight-thirty</string>
+	<key>CLOCK FACE ELEVEN OCLOCK</key>
+	<string>Clock Face Eleven Oclock</string>
+	<key>CLOCK FACE ELEVEN-THIRTY</key>
+	<string>Clock Face Eleven-thirty</string>
+	<key>CLOCK FACE FIVE OCLOCK</key>
+	<string>Clock Face Five Oclock</string>
+	<key>CLOCK FACE FIVE-THIRTY</key>
+	<string>Clock Face Five-thirty</string>
+	<key>CLOCK FACE FOUR OCLOCK</key>
+	<string>Clock Face Four Oclock</string>
+	<key>CLOCK FACE FOUR-THIRTY</key>
+	<string>Clock Face Four-thirty</string>
+	<key>CLOCK FACE NINE OCLOCK</key>
+	<string>Clock Face Nine Oclock</string>
+	<key>CLOCK FACE NINE-THIRTY</key>
+	<string>Clock Face Nine-thirty</string>
+	<key>CLOCK FACE ONE OCLOCK</key>
+	<string>Clock Face One Oclock</string>
+	<key>CLOCK FACE ONE-THIRTY</key>
+	<string>Clock Face One-thirty</string>
+	<key>CLOCK FACE SEVEN OCLOCK</key>
+	<string>Clock Face Seven Oclock</string>
+	<key>CLOCK FACE SEVEN-THIRTY</key>
+	<string>Clock Face Seven-thirty</string>
+	<key>CLOCK FACE SIX OCLOCK</key>
+	<string>Clock Face Six Oclock</string>
+	<key>CLOCK FACE SIX-THIRTY</key>
+	<string>Clock Face Six-thirty</string>
+	<key>CLOCK FACE TEN OCLOCK</key>
+	<string>Clock Face Ten Oclock</string>
+	<key>CLOCK FACE TEN-THIRTY</key>
+	<string>Clock Face Ten-thirty</string>
+	<key>CLOCK FACE THREE OCLOCK</key>
+	<string>Clock Face Three Oclock</string>
+	<key>CLOCK FACE THREE-THIRTY</key>
+	<string>Clock Face Three-thirty</string>
+	<key>CLOCK FACE TWELVE OCLOCK</key>
+	<string>Clock Face Twelve Oclock</string>
+	<key>CLOCK FACE TWELVE-THIRTY</key>
+	<string>Clock Face Twelve-thirty</string>
+	<key>CLOCK FACE TWO OCLOCK</key>
+	<string>Clock Face Two Oclock</string>
+	<key>CLOCK FACE TWO-THIRTY</key>
+	<string>Clock Face Two-thirty</string>
+	<key>CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS</key>
+	<string>Clockwise Downwards And Upwards Open Circle Arrows</string>
+	<key>CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS</key>
+	<string>Clockwise Rightwards And Leftwards Open Circle Arrows</string>
+	<key>CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY</key>
+	<string>Clockwise Rightwards And Leftwards Open Circle Arrows With Circled One Overlay</string>
+	<key>CLOSED BOOK</key>
+	<string>Closed Book</string>
+	<key>CLOSED LOCK WITH KEY</key>
+	<string>Closed Lock With Key</string>
+	<key>CLOSED MAILBOX WITH LOWERED FLAG</key>
+	<string>Closed Mailbox With Lowered Flag</string>
+	<key>CLOSED MAILBOX WITH RAISED FLAG</key>
+	<string>Closed Mailbox With Raised Flag</string>
+	<key>CLOSED UMBRELLA</key>
+	<string>Closed Umbrella</string>
+	<key>CLOUD</key>
+	<string>Cloud</string>
+	<key>CLOUD WITH LIGHTNING</key>
+	<string>Cloud With Lightning</string>
+	<key>CLOUD WITH RAIN</key>
+	<string>Cloud With Rain</string>
+	<key>CLOUD WITH SNOW</key>
+	<string>Cloud With Snow</string>
+	<key>CLOUD WITH TORNADO</key>
+	<string>Cloud With Tornado</string>
+	<key>CLOWN FACE</key>
+	<string>Clown Face</string>
+	<key>COAT</key>
+	<string>Coat</string>
+	<key>COCKROACH</key>
+	<string>Cockroach</string>
+	<key>COCKTAIL GLASS</key>
+	<string>Cocktail Glass</string>
+	<key>COCONUT</key>
+	<string>Coconut</string>
+	<key>COFFIN</key>
+	<string>Coffin</string>
+	<key>COIN</key>
+	<string>Coin</string>
+	<key>COLLISION SYMBOL</key>
+	<string>Collision Symbol</string>
+	<key>COMET</key>
+	<string>Comet</string>
+	<key>COMPASS</key>
+	<string>Compass</string>
+	<key>COMPRESSION</key>
+	<string>Compression</string>
+	<key>CONFETTI BALL</key>
+	<string>Confetti Ball</string>
+	<key>CONFOUNDED FACE</key>
+	<string>Confounded Face</string>
+	<key>CONFUSED FACE</key>
+	<string>Confused Face</string>
+	<key>CONSTRUCTION SIGN</key>
+	<string>Construction Sign</string>
+	<key>CONSTRUCTION WORKER</key>
+	<string>Construction Worker</string>
+	<key>CONTROL KNOBS</key>
+	<string>Control Knobs</string>
+	<key>CONVENIENCE STORE</key>
+	<string>Convenience Store</string>
+	<key>COOKED RICE</key>
+	<string>Cooked Rice</string>
+	<key>COOKIE</key>
+	<string>Cookie</string>
+	<key>COOKING</key>
+	<string>Cooking</string>
+	<key>COPYRIGHT SIGN</key>
+	<string>Copyright Sign</string>
+	<key>CORAL</key>
+	<string>Coral</string>
+	<key>COUCH AND LAMP</key>
+	<string>Couch And Lamp</string>
+	<key>COUPLE WITH HEART</key>
+	<string>Couple With Heart</string>
+	<key>COW</key>
+	<string>Cow</string>
+	<key>COW FACE</key>
+	<string>Cow Face</string>
+	<key>CRAB</key>
+	<string>Crab</string>
+	<key>CREDIT CARD</key>
+	<string>Credit Card</string>
+	<key>CRESCENT MOON</key>
+	<string>Crescent Moon</string>
+	<key>CRICKET</key>
+	<string>Cricket</string>
+	<key>CRICKET BAT AND BALL</key>
+	<string>Cricket Bat And Ball</string>
+	<key>CROCODILE</key>
+	<string>Crocodile</string>
+	<key>CROISSANT</key>
+	<string>Croissant</string>
+	<key>CROSS MARK</key>
+	<string>Cross Mark</string>
+	<key>CROSSED FLAGS</key>
+	<string>Crossed Flags</string>
+	<key>CROSSED SWORDS</key>
+	<string>Crossed Swords</string>
+	<key>CROWN</key>
+	<string>Crown</string>
+	<key>CRUTCH</key>
+	<string>Crutch</string>
+	<key>CRYING CAT FACE</key>
+	<string>Crying Cat Face</string>
+	<key>CRYING FACE</key>
+	<string>Crying Face</string>
+	<key>CRYSTAL BALL</key>
+	<string>Crystal Ball</string>
+	<key>CUCUMBER</key>
+	<string>Cucumber</string>
+	<key>CUP WITH STRAW</key>
+	<string>Cup With Straw</string>
+	<key>CUPCAKE</key>
+	<string>Cupcake</string>
+	<key>CURLING STONE</key>
+	<string>Curling Stone</string>
+	<key>CURLY LOOP</key>
+	<string>Curly Loop</string>
+	<key>CURRENCY EXCHANGE</key>
+	<string>Currency Exchange</string>
+	<key>CURRY AND RICE</key>
+	<string>Curry And Rice</string>
+	<key>CUSTARD</key>
+	<string>Custard</string>
+	<key>CUSTOMS</key>
+	<string>Customs</string>
+	<key>CUT OF MEAT</key>
+	<string>Cut Of Meat</string>
+	<key>CYCLONE</key>
+	<string>Cyclone</string>
+	<key>DAGGER KNIFE</key>
+	<string>Dagger Knife</string>
+	<key>DANCER</key>
+	<string>Dancer</string>
+	<key>DANGO</key>
+	<string>Dango</string>
+	<key>DARK SUNGLASSES</key>
+	<string>Dark Sunglasses</string>
+	<key>DASH SYMBOL</key>
+	<string>Dash Symbol</string>
+	<key>DEAF PERSON</key>
+	<string>Deaf Person</string>
+	<key>DECIDUOUS TREE</key>
+	<string>Deciduous Tree</string>
+	<key>DEER</key>
+	<string>Deer</string>
+	<key>DELIVERY TRUCK</key>
+	<string>Delivery Truck</string>
+	<key>DEPARTMENT STORE</key>
+	<string>Department Store</string>
+	<key>DERELICT HOUSE BUILDING</key>
+	<string>Derelict House Building</string>
+	<key>DESERT</key>
+	<string>Desert</string>
+	<key>DESERT ISLAND</key>
+	<string>Desert Island</string>
+	<key>DESKTOP COMPUTER</key>
+	<string>Desktop Computer</string>
+	<key>DIAMOND SHAPE WITH A DOT INSIDE</key>
+	<string>Diamond Shape With A Dot Inside</string>
+	<key>DIGIT EIGHT</key>
+	<string>Digit Eight</string>
+	<key>DIGIT FIVE</key>
+	<string>Digit Five</string>
+	<key>DIGIT FOUR</key>
+	<string>Digit Four</string>
+	<key>DIGIT NINE</key>
+	<string>Digit Nine</string>
+	<key>DIGIT ONE</key>
+	<string>Digit One</string>
+	<key>DIGIT SEVEN</key>
+	<string>Digit Seven</string>
+	<key>DIGIT SIX</key>
+	<string>Digit Six</string>
+	<key>DIGIT THREE</key>
+	<string>Digit Three</string>
+	<key>DIGIT TWO</key>
+	<string>Digit Two</string>
+	<key>DIGIT ZERO</key>
+	<string>Digit Zero</string>
+	<key>DIRECT HIT</key>
+	<string>Direct Hit</string>
+	<key>DISAPPOINTED BUT RELIEVED FACE</key>
+	<string>Disappointed But Relieved Face</string>
+	<key>DISAPPOINTED FACE</key>
+	<string>Disappointed Face</string>
+	<key>DISGUISED FACE</key>
+	<string>Disguised Face</string>
+	<key>DIVING MASK</key>
+	<string>Diving Mask</string>
+	<key>DIYA LAMP</key>
+	<string>Diya Lamp</string>
+	<key>DIZZY FACE</key>
+	<string>Dizzy Face</string>
+	<key>DIZZY SYMBOL</key>
+	<string>Dizzy Symbol</string>
+	<key>DNA DOUBLE HELIX</key>
+	<string>Dna Double Helix</string>
+	<key>DO NOT LITTER SYMBOL</key>
+	<string>Do Not Litter Symbol</string>
+	<key>DODO</key>
+	<string>Dodo</string>
+	<key>DOG</key>
+	<string>Dog</string>
+	<key>DOG FACE</key>
+	<string>Dog Face</string>
+	<key>DOLPHIN</key>
+	<string>Dolphin</string>
+	<key>DONKEY</key>
+	<string>Donkey</string>
+	<key>DOOR</key>
+	<string>Door</string>
+	<key>DOTTED LINE FACE</key>
+	<string>Dotted Line Face</string>
+	<key>DOUBLE CURLY LOOP</key>
+	<string>Double Curly Loop</string>
+	<key>DOUBLE EXCLAMATION MARK</key>
+	<string>Double Exclamation Mark</string>
+	<key>DOUBLE VERTICAL BAR</key>
+	<string>Double Vertical Bar</string>
+	<key>DOUGHNUT</key>
+	<string>Doughnut</string>
+	<key>DOVE OF PEACE</key>
+	<string>Dove Of Peace</string>
+	<key>DOWN-POINTING RED TRIANGLE</key>
+	<string>Down-pointing Red Triangle</string>
+	<key>DOWN-POINTING SMALL RED TRIANGLE</key>
+	<string>Down-pointing Small Red Triangle</string>
+	<key>DOWNWARDS BLACK ARROW</key>
+	<string>Downwards Black Arrow</string>
+	<key>DRAGON</key>
+	<string>Dragon</string>
+	<key>DRAGON FACE</key>
+	<string>Dragon Face</string>
+	<key>DRESS</key>
+	<string>Dress</string>
+	<key>DROMEDARY CAMEL</key>
+	<string>Dromedary Camel</string>
+	<key>DROOLING FACE</key>
+	<string>Drooling Face</string>
+	<key>DROP OF BLOOD</key>
+	<string>Drop Of Blood</string>
+	<key>DROPLET</key>
+	<string>Droplet</string>
+	<key>DRUM WITH DRUMSTICKS</key>
+	<string>Drum With Drumsticks</string>
+	<key>DUCK</key>
+	<string>Duck</string>
+	<key>DUMPLING</key>
+	<string>Dumpling</string>
+	<key>DVD</key>
+	<string>Dvd</string>
+	<key>E-MAIL SYMBOL</key>
+	<string>E-mail Symbol</string>
+	<key>EAGLE</key>
+	<string>Eagle</string>
+	<key>EAR</key>
+	<string>Ear</string>
+	<key>EAR OF MAIZE</key>
+	<string>Ear Of Maize</string>
+	<key>EAR OF RICE</key>
+	<string>Ear Of Rice</string>
+	<key>EAR WITH HEARING AID</key>
+	<string>Ear With Hearing Aid</string>
+	<key>EARTH GLOBE AMERICAS</key>
+	<string>Earth Globe Americas</string>
+	<key>EARTH GLOBE ASIA-AUSTRALIA</key>
+	<string>Earth Globe Asia-australia</string>
+	<key>EARTH GLOBE EUROPE-AFRICA</key>
+	<string>Earth Globe Europe-africa</string>
+	<key>EGG</key>
+	<string>Egg</string>
+	<key>EIGHT POINTED BLACK STAR</key>
+	<string>Eight Pointed Black Star</string>
+	<key>EIGHT SPOKED ASTERISK</key>
+	<string>Eight Spoked Asterisk</string>
+	<key>EJECT SYMBOL</key>
+	<string>Eject Symbol</string>
+	<key>ELECTRIC LIGHT BULB</key>
+	<string>Electric Light Bulb</string>
+	<key>ELECTRIC PLUG</key>
+	<string>Electric Plug</string>
+	<key>ELECTRIC TORCH</key>
+	<string>Electric Torch</string>
+	<key>ELEPHANT</key>
+	<string>Elephant</string>
+	<key>ELEVATOR</key>
+	<string>Elevator</string>
+	<key>ELF</key>
+	<string>Elf</string>
+	<key>EMOJI COMPONENT BALD</key>
+	<string>Emoji Component Bald</string>
+	<key>EMOJI COMPONENT CURLY HAIR</key>
+	<string>Emoji Component Curly Hair</string>
+	<key>EMOJI COMPONENT RED HAIR</key>
+	<string>Emoji Component Red Hair</string>
+	<key>EMOJI COMPONENT WHITE HAIR</key>
+	<string>Emoji Component White Hair</string>
+	<key>EMOJI MODIFIER FITZPATRICK TYPE-1-2</key>
+	<string>Emoji Modifier Fitzpatrick Type-1-2</string>
+	<key>EMOJI MODIFIER FITZPATRICK TYPE-3</key>
+	<string>Emoji Modifier Fitzpatrick Type-3</string>
+	<key>EMOJI MODIFIER FITZPATRICK TYPE-4</key>
+	<string>Emoji Modifier Fitzpatrick Type-4</string>
+	<key>EMOJI MODIFIER FITZPATRICK TYPE-5</key>
+	<string>Emoji Modifier Fitzpatrick Type-5</string>
+	<key>EMOJI MODIFIER FITZPATRICK TYPE-6</key>
+	<string>Emoji Modifier Fitzpatrick Type-6</string>
+	<key>EMPTY NEST</key>
+	<string>Empty Nest</string>
+	<key>END WITH LEFTWARDS ARROW ABOVE</key>
+	<string>End With Leftwards Arrow Above</string>
+	<key>ENVELOPE</key>
+	<string>Envelope</string>
+	<key>ENVELOPE WITH DOWNWARDS ARROW ABOVE</key>
+	<string>Envelope With Downwards Arrow Above</string>
+	<key>EUROPEAN CASTLE</key>
+	<string>European Castle</string>
+	<key>EUROPEAN POST OFFICE</key>
+	<string>European Post Office</string>
+	<key>EVERGREEN TREE</key>
+	<string>Evergreen Tree</string>
+	<key>EXCLAMATION QUESTION MARK</key>
+	<string>Exclamation Question Mark</string>
+	<key>EXPRESSIONLESS FACE</key>
+	<string>Expressionless Face</string>
+	<key>EXTRATERRESTRIAL ALIEN</key>
+	<string>Extraterrestrial Alien</string>
+	<key>EYE</key>
+	<string>Eye</string>
+	<key>EYEGLASSES</key>
+	<string>Eyeglasses</string>
+	<key>EYES</key>
+	<string>Eyes</string>
+	<key>FACE HOLDING BACK TEARS</key>
+	<string>Face Holding Back Tears</string>
+	<key>FACE MASSAGE</key>
+	<string>Face Massage</string>
+	<key>FACE PALM</key>
+	<string>Face Palm</string>
+	<key>FACE SAVOURING DELICIOUS FOOD</key>
+	<string>Face Savouring Delicious Food</string>
+	<key>FACE SCREAMING IN FEAR</key>
+	<string>Face Screaming In Fear</string>
+	<key>FACE THROWING A KISS</key>
+	<string>Face Throwing A Kiss</string>
+	<key>FACE WITH BAGS UNDER EYES</key>
+	<string>Face With Bags Under Eyes</string>
+	<key>FACE WITH COLD SWEAT</key>
+	<string>Face With Cold Sweat</string>
+	<key>FACE WITH COWBOY HAT</key>
+	<string>Face With Cowboy Hat</string>
+	<key>FACE WITH DIAGONAL MOUTH</key>
+	<string>Face With Diagonal Mouth</string>
+	<key>FACE WITH FINGER COVERING CLOSED LIPS</key>
+	<string>Face With Finger Covering Closed Lips</string>
+	<key>FACE WITH HEAD-BANDAGE</key>
+	<string>Face With Head-bandage</string>
+	<key>FACE WITH LOOK OF TRIUMPH</key>
+	<string>Face With Look Of Triumph</string>
+	<key>FACE WITH MEDICAL MASK</key>
+	<string>Face With Medical Mask</string>
+	<key>FACE WITH MONOCLE</key>
+	<string>Face With Monocle</string>
+	<key>FACE WITH NO GOOD GESTURE</key>
+	<string>Face With No Good Gesture</string>
+	<key>FACE WITH OK GESTURE</key>
+	<string>Face With Ok Gesture</string>
+	<key>FACE WITH ONE EYEBROW RAISED</key>
+	<string>Face With One Eyebrow Raised</string>
+	<key>FACE WITH OPEN EYES AND HAND OVER MOUTH</key>
+	<string>Face With Open Eyes And Hand Over Mouth</string>
+	<key>FACE WITH OPEN MOUTH</key>
+	<string>Face With Open Mouth</string>
+	<key>FACE WITH OPEN MOUTH AND COLD SWEAT</key>
+	<string>Face With Open Mouth And Cold Sweat</string>
+	<key>FACE WITH OPEN MOUTH VOMITING</key>
+	<string>Face With Open Mouth Vomiting</string>
+	<key>FACE WITH PARTY HORN AND PARTY HAT</key>
+	<string>Face With Party Horn And Party Hat</string>
+	<key>FACE WITH PEEKING EYE</key>
+	<string>Face With Peeking Eye</string>
+	<key>FACE WITH PLEADING EYES</key>
+	<string>Face With Pleading Eyes</string>
+	<key>FACE WITH ROLLING EYES</key>
+	<string>Face With Rolling Eyes</string>
+	<key>FACE WITH STUCK-OUT TONGUE</key>
+	<string>Face With Stuck-out Tongue</string>
+	<key>FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES</key>
+	<string>Face With Stuck-out Tongue And Tightly-closed Eyes</string>
+	<key>FACE WITH STUCK-OUT TONGUE AND WINKING EYE</key>
+	<string>Face With Stuck-out Tongue And Winking Eye</string>
+	<key>FACE WITH TEARS OF JOY</key>
+	<string>Face With Tears Of Joy</string>
+	<key>FACE WITH THERMOMETER</key>
+	<string>Face With Thermometer</string>
+	<key>FACE WITH UNEVEN EYES AND WAVY MOUTH</key>
+	<string>Face With Uneven Eyes And Wavy Mouth</string>
+	<key>FACE WITHOUT MOUTH</key>
+	<string>Face Without Mouth</string>
+	<key>FACTORY</key>
+	<string>Factory</string>
+	<key>FAIRY</key>
+	<string>Fairy</string>
+	<key>FALAFEL</key>
+	<string>Falafel</string>
+	<key>FALLEN LEAF</key>
+	<string>Fallen Leaf</string>
+	<key>FAMILY</key>
+	<string>Family</string>
+	<key>FATHER CHRISTMAS</key>
+	<string>Father Christmas</string>
+	<key>FAX MACHINE</key>
+	<string>Fax Machine</string>
+	<key>FEARFUL FACE</key>
+	<string>Fearful Face</string>
+	<key>FEATHER</key>
+	<string>Feather</string>
+	<key>FEMALE SIGN</key>
+	<string>Female Sign</string>
+	<key>FENCER</key>
+	<string>Fencer</string>
+	<key>FERRIS WHEEL</key>
+	<string>Ferris Wheel</string>
+	<key>FERRY</key>
+	<string>Ferry</string>
+	<key>FIELD HOCKEY STICK AND BALL</key>
+	<string>Field Hockey Stick And Ball</string>
+	<key>FILE CABINET</key>
+	<string>File Cabinet</string>
+	<key>FILE FOLDER</key>
+	<string>File Folder</string>
+	<key>FILM FRAMES</key>
+	<string>Film Frames</string>
+	<key>FILM PROJECTOR</key>
+	<string>Film Projector</string>
+	<key>FINGERPRINT</key>
+	<string>Fingerprint</string>
+	<key>FIRE</key>
+	<string>Fire</string>
+	<key>FIRE ENGINE</key>
+	<string>Fire Engine</string>
+	<key>FIRE EXTINGUISHER</key>
+	<string>Fire Extinguisher</string>
+	<key>FIRECRACKER</key>
+	<string>Firecracker</string>
+	<key>FIREWORK SPARKLER</key>
+	<string>Firework Sparkler</string>
+	<key>FIREWORKS</key>
+	<string>Fireworks</string>
+	<key>FIRST PLACE MEDAL</key>
+	<string>First Place Medal</string>
+	<key>FIRST QUARTER MOON SYMBOL</key>
+	<string>First Quarter Moon Symbol</string>
+	<key>FIRST QUARTER MOON WITH FACE</key>
+	<string>First Quarter Moon With Face</string>
+	<key>FISH</key>
+	<string>Fish</string>
+	<key>FISH CAKE WITH SWIRL DESIGN</key>
+	<string>Fish Cake With Swirl Design</string>
+	<key>FISHING POLE AND FISH</key>
+	<string>Fishing Pole And Fish</string>
+	<key>FISTED HAND SIGN</key>
+	<string>Fisted Hand Sign</string>
+	<key>FLAG IN HOLE</key>
+	<string>Flag In Hole</string>
+	<key>FLAMINGO</key>
+	<string>Flamingo</string>
+	<key>FLAT SHOE</key>
+	<string>Flat Shoe</string>
+	<key>FLATBREAD</key>
+	<string>Flatbread</string>
+	<key>FLEUR-DE-LIS</key>
+	<string>Fleur-de-lis</string>
+	<key>FLEXED BICEPS</key>
+	<string>Flexed Biceps</string>
+	<key>FLOPPY DISK</key>
+	<string>Floppy Disk</string>
+	<key>FLOWER PLAYING CARDS</key>
+	<string>Flower Playing Cards</string>
+	<key>FLUSHED FACE</key>
+	<string>Flushed Face</string>
+	<key>FLUTE</key>
+	<string>Flute</string>
+	<key>FLY</key>
+	<string>Fly</string>
+	<key>FLYING DISC</key>
+	<string>Flying Disc</string>
+	<key>FLYING SAUCER</key>
+	<string>Flying Saucer</string>
+	<key>FOG</key>
+	<string>Fog</string>
+	<key>FOGGY</key>
+	<string>Foggy</string>
+	<key>FOLDING HAND FAN</key>
+	<string>Folding Hand Fan</string>
+	<key>FONDUE</key>
+	<string>Fondue</string>
+	<key>FOOT</key>
+	<string>Foot</string>
+	<key>FOOTPRINTS</key>
+	<string>Footprints</string>
+	<key>FORK AND KNIFE</key>
+	<string>Fork And Knife</string>
+	<key>FORK AND KNIFE WITH PLATE</key>
+	<string>Fork And Knife With Plate</string>
+	<key>FORTUNE COOKIE</key>
+	<string>Fortune Cookie</string>
+	<key>FOUNTAIN</key>
+	<string>Fountain</string>
+	<key>FOUR LEAF CLOVER</key>
+	<string>Four Leaf Clover</string>
+	<key>FOX FACE</key>
+	<string>Fox Face</string>
+	<key>FRAME WITH PICTURE</key>
+	<string>Frame With Picture</string>
+	<key>FREEZING FACE</key>
+	<string>Freezing Face</string>
+	<key>FRENCH FRIES</key>
+	<string>French Fries</string>
+	<key>FRIED SHRIMP</key>
+	<string>Fried Shrimp</string>
+	<key>FROG FACE</key>
+	<string>Frog Face</string>
+	<key>FRONT-FACING BABY CHICK</key>
+	<string>Front-facing Baby Chick</string>
+	<key>FROWNING FACE WITH OPEN MOUTH</key>
+	<string>Frowning Face With Open Mouth</string>
+	<key>FUEL PUMP</key>
+	<string>Fuel Pump</string>
+	<key>FULL MOON SYMBOL</key>
+	<string>Full Moon Symbol</string>
+	<key>FULL MOON WITH FACE</key>
+	<string>Full Moon With Face</string>
+	<key>FUNERAL URN</key>
+	<string>Funeral Urn</string>
+	<key>GAME DIE</key>
+	<string>Game Die</string>
+	<key>GARLIC</key>
+	<string>Garlic</string>
+	<key>GEAR</key>
+	<string>Gear</string>
+	<key>GEM STONE</key>
+	<string>Gem Stone</string>
+	<key>GEMINI</key>
+	<string>Gemini</string>
+	<key>GENIE</key>
+	<string>Genie</string>
+	<key>GHOST</key>
+	<string>Ghost</string>
+	<key>GINGER ROOT</key>
+	<string>Ginger Root</string>
+	<key>GIRAFFE FACE</key>
+	<string>Giraffe Face</string>
+	<key>GIRL</key>
+	<string>Girl</string>
+	<key>GLASS OF MILK</key>
+	<string>Glass Of Milk</string>
+	<key>GLOBE WITH MERIDIANS</key>
+	<string>Globe With Meridians</string>
+	<key>GLOVES</key>
+	<string>Gloves</string>
+	<key>GLOWING STAR</key>
+	<string>Glowing Star</string>
+	<key>GOAL NET</key>
+	<string>Goal Net</string>
+	<key>GOAT</key>
+	<string>Goat</string>
+	<key>GOGGLES</key>
+	<string>Goggles</string>
+	<key>GOLFER</key>
+	<string>Golfer</string>
+	<key>GOOSE</key>
+	<string>Goose</string>
+	<key>GORILLA</key>
+	<string>Gorilla</string>
+	<key>GRADUATION CAP</key>
+	<string>Graduation Cap</string>
+	<key>GRAPES</key>
+	<string>Grapes</string>
+	<key>GREEN APPLE</key>
+	<string>Green Apple</string>
+	<key>GREEN BOOK</key>
+	<string>Green Book</string>
+	<key>GREEN HEART</key>
+	<string>Green Heart</string>
+	<key>GREEN SALAD</key>
+	<string>Green Salad</string>
+	<key>GREY HEART</key>
+	<string>Grey Heart</string>
+	<key>GRIMACING FACE</key>
+	<string>Grimacing Face</string>
+	<key>GRINNING CAT FACE WITH SMILING EYES</key>
+	<string>Grinning Cat Face With Smiling Eyes</string>
+	<key>GRINNING FACE</key>
+	<string>Grinning Face</string>
+	<key>GRINNING FACE WITH ONE LARGE AND ONE SMALL EYE</key>
+	<string>Grinning Face With One Large And One Small Eye</string>
+	<key>GRINNING FACE WITH SMILING EYES</key>
+	<string>Grinning Face With Smiling Eyes</string>
+	<key>GRINNING FACE WITH STAR EYES</key>
+	<string>Grinning Face With Star Eyes</string>
+	<key>GROWING HEART</key>
+	<string>Growing Heart</string>
+	<key>GUARDSMAN</key>
+	<string>Guardsman</string>
+	<key>GUIDE DOG</key>
+	<string>Guide Dog</string>
+	<key>GUITAR</key>
+	<string>Guitar</string>
+	<key>HAIR PICK</key>
+	<string>Hair Pick</string>
+	<key>HAIRCUT</key>
+	<string>Haircut</string>
+	<key>HAMBURGER</key>
+	<string>Hamburger</string>
+	<key>HAMMER</key>
+	<string>Hammer</string>
+	<key>HAMMER AND PICK</key>
+	<string>Hammer And Pick</string>
+	<key>HAMMER AND WRENCH</key>
+	<string>Hammer And Wrench</string>
+	<key>HAMSA</key>
+	<string>Hamsa</string>
+	<key>HAMSTER FACE</key>
+	<string>Hamster Face</string>
+	<key>HAND WITH INDEX AND MIDDLE FINGERS CROSSED</key>
+	<string>Hand With Index And Middle Fingers Crossed</string>
+	<key>HAND WITH INDEX FINGER AND THUMB CROSSED</key>
+	<string>Hand With Index Finger And Thumb Crossed</string>
+	<key>HANDBAG</key>
+	<string>Handbag</string>
+	<key>HANDBALL</key>
+	<string>Handball</string>
+	<key>HANDSHAKE</key>
+	<string>Handshake</string>
+	<key>HAPPY PERSON RAISING ONE HAND</key>
+	<string>Happy Person Raising One Hand</string>
+	<key>HARP</key>
+	<string>Harp</string>
+	<key>HATCHING CHICK</key>
+	<string>Hatching Chick</string>
+	<key>HEADPHONE</key>
+	<string>Headphone</string>
+	<key>HEADSTONE</key>
+	<string>Headstone</string>
+	<key>HEAR-NO-EVIL MONKEY</key>
+	<string>Hear-no-evil Monkey</string>
+	<key>HEART DECORATION</key>
+	<string>Heart Decoration</string>
+	<key>HEART HANDS</key>
+	<string>Heart Hands</string>
+	<key>HEART WITH ARROW</key>
+	<string>Heart With Arrow</string>
+	<key>HEART WITH RIBBON</key>
+	<string>Heart With Ribbon</string>
+	<key>HEAVY BLACK HEART</key>
+	<string>Heavy Black Heart</string>
+	<key>HEAVY CHECK MARK</key>
+	<string>Heavy Check Mark</string>
+	<key>HEAVY DIVISION SIGN</key>
+	<string>Heavy Division Sign</string>
+	<key>HEAVY DOLLAR SIGN</key>
+	<string>Heavy Dollar Sign</string>
+	<key>HEAVY EQUALS SIGN</key>
+	<string>Heavy Equals Sign</string>
+	<key>HEAVY EXCLAMATION MARK SYMBOL</key>
+	<string>Heavy Exclamation Mark Symbol</string>
+	<key>HEAVY HEART EXCLAMATION MARK ORNAMENT</key>
+	<string>Heavy Heart Exclamation Mark Ornament</string>
+	<key>HEAVY LARGE CIRCLE</key>
+	<string>Heavy Large Circle</string>
+	<key>HEAVY MINUS SIGN</key>
+	<string>Heavy Minus Sign</string>
+	<key>HEAVY MULTIPLICATION X</key>
+	<string>Heavy Multiplication X</string>
+	<key>HEAVY PLUS SIGN</key>
+	<string>Heavy Plus Sign</string>
+	<key>HEDGEHOG</key>
+	<string>Hedgehog</string>
+	<key>HELICOPTER</key>
+	<string>Helicopter</string>
+	<key>HELMET WITH WHITE CROSS</key>
+	<string>Helmet With White Cross</string>
+	<key>HERB</key>
+	<string>Herb</string>
+	<key>HIBISCUS</key>
+	<string>Hibiscus</string>
+	<key>HIGH BRIGHTNESS SYMBOL</key>
+	<string>High Brightness Symbol</string>
+	<key>HIGH VOLTAGE SIGN</key>
+	<string>High Voltage Sign</string>
+	<key>HIGH-HEELED SHOE</key>
+	<string>High-heeled Shoe</string>
+	<key>HIGH-SPEED TRAIN</key>
+	<string>High-speed Train</string>
+	<key>HIGH-SPEED TRAIN WITH BULLET NOSE</key>
+	<string>High-speed Train With Bullet Nose</string>
+	<key>HIKING BOOT</key>
+	<string>Hiking Boot</string>
+	<key>HINDU TEMPLE</key>
+	<string>Hindu Temple</string>
+	<key>HIPPOPOTAMUS</key>
+	<string>Hippopotamus</string>
+	<key>HOCHO</key>
+	<string>Hocho</string>
+	<key>HOLE</key>
+	<string>Hole</string>
+	<key>HONEY POT</key>
+	<string>Honey Pot</string>
+	<key>HONEYBEE</key>
+	<string>Honeybee</string>
+	<key>HOOK</key>
+	<string>Hook</string>
+	<key>HORIZONTAL TRAFFIC LIGHT</key>
+	<string>Horizontal Traffic Light</string>
+	<key>HORSE</key>
+	<string>Horse</string>
+	<key>HORSE FACE</key>
+	<string>Horse Face</string>
+	<key>HORSE RACING</key>
+	<string>Horse Racing</string>
+	<key>HOSPITAL</key>
+	<string>Hospital</string>
+	<key>HOT BEVERAGE</key>
+	<string>Hot Beverage</string>
+	<key>HOT DOG</key>
+	<string>Hot Dog</string>
+	<key>HOT PEPPER</key>
+	<string>Hot Pepper</string>
+	<key>HOT SPRINGS</key>
+	<string>Hot Springs</string>
+	<key>HOTEL</key>
+	<string>Hotel</string>
+	<key>HOURGLASS</key>
+	<string>Hourglass</string>
+	<key>HOURGLASS WITH FLOWING SAND</key>
+	<string>Hourglass With Flowing Sand</string>
+	<key>HOUSE BUILDING</key>
+	<string>House Building</string>
+	<key>HOUSE BUILDINGS</key>
+	<string>House Buildings</string>
+	<key>HOUSE WITH GARDEN</key>
+	<string>House With Garden</string>
+	<key>HUGGING FACE</key>
+	<string>Hugging Face</string>
+	<key>HUNDRED POINTS SYMBOL</key>
+	<string>Hundred Points Symbol</string>
+	<key>HUSHED FACE</key>
+	<string>Hushed Face</string>
+	<key>HUT</key>
+	<string>Hut</string>
+	<key>HYACINTH</key>
+	<string>Hyacinth</string>
+	<key>I LOVE YOU HAND SIGN</key>
+	<string>I Love You Hand Sign</string>
+	<key>ICE CREAM</key>
+	<string>Ice Cream</string>
+	<key>ICE CUBE</key>
+	<string>Ice Cube</string>
+	<key>ICE HOCKEY STICK AND PUCK</key>
+	<string>Ice Hockey Stick And Puck</string>
+	<key>ICE SKATE</key>
+	<string>Ice Skate</string>
+	<key>IDENTIFICATION CARD</key>
+	<string>Identification Card</string>
+	<key>IMP</key>
+	<string>Imp</string>
+	<key>INBOX TRAY</key>
+	<string>Inbox Tray</string>
+	<key>INCOMING ENVELOPE</key>
+	<string>Incoming Envelope</string>
+	<key>INDEX POINTING AT THE VIEWER</key>
+	<string>Index Pointing At The Viewer</string>
+	<key>INFORMATION DESK PERSON</key>
+	<string>Information Desk Person</string>
+	<key>INFORMATION SOURCE</key>
+	<string>Information Source</string>
+	<key>INPUT SYMBOL FOR LATIN CAPITAL LETTERS</key>
+	<string>Input Symbol For Latin Capital Letters</string>
+	<key>INPUT SYMBOL FOR LATIN LETTERS</key>
+	<string>Input Symbol For Latin Letters</string>
+	<key>INPUT SYMBOL FOR LATIN SMALL LETTERS</key>
+	<string>Input Symbol For Latin Small Letters</string>
+	<key>INPUT SYMBOL FOR NUMBERS</key>
+	<string>Input Symbol For Numbers</string>
+	<key>INPUT SYMBOL FOR SYMBOLS</key>
+	<string>Input Symbol For Symbols</string>
+	<key>IZAKAYA LANTERN</key>
+	<string>Izakaya Lantern</string>
+	<key>JACK-O-LANTERN</key>
+	<string>Jack-o-lantern</string>
+	<key>JAPANESE CASTLE</key>
+	<string>Japanese Castle</string>
+	<key>JAPANESE DOLLS</key>
+	<string>Japanese Dolls</string>
+	<key>JAPANESE GOBLIN</key>
+	<string>Japanese Goblin</string>
+	<key>JAPANESE OGRE</key>
+	<string>Japanese Ogre</string>
+	<key>JAPANESE POST OFFICE</key>
+	<string>Japanese Post Office</string>
+	<key>JAPANESE SYMBOL FOR BEGINNER</key>
+	<string>Japanese Symbol For Beginner</string>
+	<key>JAR</key>
+	<string>Jar</string>
+	<key>JEANS</key>
+	<string>Jeans</string>
+	<key>JELLYFISH</key>
+	<string>Jellyfish</string>
+	<key>JIGSAW PUZZLE PIECE</key>
+	<string>Jigsaw Puzzle Piece</string>
+	<key>JOYSTICK</key>
+	<string>Joystick</string>
+	<key>JUGGLING</key>
+	<string>Juggling</string>
+	<key>KAABA</key>
+	<string>Kaaba</string>
+	<key>KANGAROO</key>
+	<string>Kangaroo</string>
+	<key>KEY</key>
+	<string>Key</string>
+	<key>KEYBOARD</key>
+	<string>Keyboard</string>
+	<key>KEYCAP TEN</key>
+	<string>Keycap Ten</string>
+	<key>KHANDA</key>
+	<string>Khanda</string>
+	<key>KIMONO</key>
+	<string>Kimono</string>
+	<key>KISS</key>
+	<string>Kiss</string>
+	<key>KISS MARK</key>
+	<string>Kiss Mark</string>
+	<key>KISSING CAT FACE WITH CLOSED EYES</key>
+	<string>Kissing Cat Face With Closed Eyes</string>
+	<key>KISSING FACE</key>
+	<string>Kissing Face</string>
+	<key>KISSING FACE WITH CLOSED EYES</key>
+	<string>Kissing Face With Closed Eyes</string>
+	<key>KISSING FACE WITH SMILING EYES</key>
+	<string>Kissing Face With Smiling Eyes</string>
+	<key>KITE</key>
+	<string>Kite</string>
+	<key>KIWIFRUIT</key>
+	<string>Kiwifruit</string>
+	<key>KNEELING PERSON</key>
+	<string>Kneeling Person</string>
+	<key>KNOT</key>
+	<string>Knot</string>
+	<key>KOALA</key>
+	<string>Koala</string>
+	<key>LAB COAT</key>
+	<string>Lab Coat</string>
+	<key>LABEL</key>
+	<string>Label</string>
+	<key>LACROSSE STICK AND BALL</key>
+	<string>Lacrosse Stick And Ball</string>
+	<key>LADDER</key>
+	<string>Ladder</string>
+	<key>LADY BEETLE</key>
+	<string>Lady Beetle</string>
+	<key>LARGE BLUE CIRCLE</key>
+	<string>Large Blue Circle</string>
+	<key>LARGE BLUE DIAMOND</key>
+	<string>Large Blue Diamond</string>
+	<key>LARGE BLUE SQUARE</key>
+	<string>Large Blue Square</string>
+	<key>LARGE BROWN CIRCLE</key>
+	<string>Large Brown Circle</string>
+	<key>LARGE BROWN SQUARE</key>
+	<string>Large Brown Square</string>
+	<key>LARGE GREEN CIRCLE</key>
+	<string>Large Green Circle</string>
+	<key>LARGE GREEN SQUARE</key>
+	<string>Large Green Square</string>
+	<key>LARGE ORANGE CIRCLE</key>
+	<string>Large Orange Circle</string>
+	<key>LARGE ORANGE DIAMOND</key>
+	<string>Large Orange Diamond</string>
+	<key>LARGE ORANGE SQUARE</key>
+	<string>Large Orange Square</string>
+	<key>LARGE PURPLE CIRCLE</key>
+	<string>Large Purple Circle</string>
+	<key>LARGE PURPLE SQUARE</key>
+	<string>Large Purple Square</string>
+	<key>LARGE RED CIRCLE</key>
+	<string>Large Red Circle</string>
+	<key>LARGE RED SQUARE</key>
+	<string>Large Red Square</string>
+	<key>LARGE YELLOW CIRCLE</key>
+	<string>Large Yellow Circle</string>
+	<key>LARGE YELLOW SQUARE</key>
+	<string>Large Yellow Square</string>
+	<key>LAST QUARTER MOON SYMBOL</key>
+	<string>Last Quarter Moon Symbol</string>
+	<key>LAST QUARTER MOON WITH FACE</key>
+	<string>Last Quarter Moon With Face</string>
+	<key>LATIN CROSS</key>
+	<string>Latin Cross</string>
+	<key>LEAF FLUTTERING IN WIND</key>
+	<string>Leaf Fluttering In Wind</string>
+	<key>LEAFLESS TREE</key>
+	<string>Leafless Tree</string>
+	<key>LEAFY GREEN</key>
+	<string>Leafy Green</string>
+	<key>LEDGER</key>
+	<string>Ledger</string>
+	<key>LEFT LUGGAGE</key>
+	<string>Left Luggage</string>
+	<key>LEFT RIGHT ARROW</key>
+	<string>Left Right Arrow</string>
+	<key>LEFT SPEECH BUBBLE</key>
+	<string>Left Speech Bubble</string>
+	<key>LEFT-FACING FIST</key>
+	<string>Left-facing Fist</string>
+	<key>LEFT-POINTING MAGNIFYING GLASS</key>
+	<string>Left-pointing Magnifying Glass</string>
+	<key>LEFTWARDS ARROW WITH HOOK</key>
+	<string>Leftwards Arrow With Hook</string>
+	<key>LEFTWARDS BLACK ARROW</key>
+	<string>Leftwards Black Arrow</string>
+	<key>LEFTWARDS HAND</key>
+	<string>Leftwards Hand</string>
+	<key>LEFTWARDS PUSHING HAND</key>
+	<string>Leftwards Pushing Hand</string>
+	<key>LEG</key>
+	<string>Leg</string>
+	<key>LEMON</key>
+	<string>Lemon</string>
+	<key>LEO</key>
+	<string>Leo</string>
+	<key>LEOPARD</key>
+	<string>Leopard</string>
+	<key>LEVEL SLIDER</key>
+	<string>Level Slider</string>
+	<key>LIBRA</key>
+	<string>Libra</string>
+	<key>LIGHT BLUE HEART</key>
+	<string>Light Blue Heart</string>
+	<key>LIGHT RAIL</key>
+	<string>Light Rail</string>
+	<key>LINK SYMBOL</key>
+	<string>Link Symbol</string>
+	<key>LINKED PAPERCLIPS</key>
+	<string>Linked Paperclips</string>
+	<key>LION FACE</key>
+	<string>Lion Face</string>
+	<key>LIPSTICK</key>
+	<string>Lipstick</string>
+	<key>LIZARD</key>
+	<string>Lizard</string>
+	<key>LLAMA</key>
+	<string>Llama</string>
+	<key>LOBSTER</key>
+	<string>Lobster</string>
+	<key>LOCK</key>
+	<string>Lock</string>
+	<key>LOCK WITH INK PEN</key>
+	<string>Lock With Ink Pen</string>
+	<key>LOLLIPOP</key>
+	<string>Lollipop</string>
+	<key>LONG DRUM</key>
+	<string>Long Drum</string>
+	<key>LOTION BOTTLE</key>
+	<string>Lotion Bottle</string>
+	<key>LOTUS</key>
+	<string>Lotus</string>
+	<key>LOUDLY CRYING FACE</key>
+	<string>Loudly Crying Face</string>
+	<key>LOVE HOTEL</key>
+	<string>Love Hotel</string>
+	<key>LOVE LETTER</key>
+	<string>Love Letter</string>
+	<key>LOW BATTERY</key>
+	<string>Low Battery</string>
+	<key>LOW BRIGHTNESS SYMBOL</key>
+	<string>Low Brightness Symbol</string>
+	<key>LOWER LEFT BALLPOINT PEN</key>
+	<string>Lower Left Ballpoint Pen</string>
+	<key>LOWER LEFT CRAYON</key>
+	<string>Lower Left Crayon</string>
+	<key>LOWER LEFT FOUNTAIN PEN</key>
+	<string>Lower Left Fountain Pen</string>
+	<key>LOWER LEFT PAINTBRUSH</key>
+	<string>Lower Left Paintbrush</string>
+	<key>LUGGAGE</key>
+	<string>Luggage</string>
+	<key>LUNGS</key>
+	<string>Lungs</string>
+	<key>LYING FACE</key>
+	<string>Lying Face</string>
+	<key>MAGE</key>
+	<string>Mage</string>
+	<key>MAGIC WAND</key>
+	<string>Magic Wand</string>
+	<key>MAGNET</key>
+	<string>Magnet</string>
+	<key>MAHJONG TILE RED DRAGON</key>
+	<string>Mahjong Tile Red Dragon</string>
+	<key>MALE SIGN</key>
+	<string>Male Sign</string>
+	<key>MALE WITH STROKE AND MALE AND FEMALE SIGN</key>
+	<string>Male With Stroke And Male And Female Sign</string>
+	<key>MAMMOTH</key>
+	<string>Mammoth</string>
+	<key>MAN</key>
+	<string>Man</string>
+	<key>MAN AND WOMAN HOLDING HANDS</key>
+	<string>Man And Woman Holding Hands</string>
+	<key>MAN DANCING</key>
+	<string>Man Dancing</string>
+	<key>MAN IN BUSINESS SUIT LEVITATING</key>
+	<string>Man In Business Suit Levitating</string>
+	<key>MAN IN TUXEDO</key>
+	<string>Man In Tuxedo</string>
+	<key>MAN WITH GUA PI MAO</key>
+	<string>Man With Gua Pi Mao</string>
+	<key>MAN WITH TURBAN</key>
+	<string>Man With Turban</string>
+	<key>MANGO</key>
+	<string>Mango</string>
+	<key>MANS SHOE</key>
+	<string>Mans Shoe</string>
+	<key>MANTELPIECE CLOCK</key>
+	<string>Mantelpiece Clock</string>
+	<key>MANUAL WHEELCHAIR</key>
+	<string>Manual Wheelchair</string>
+	<key>MAPLE LEAF</key>
+	<string>Maple Leaf</string>
+	<key>MARACAS</key>
+	<string>Maracas</string>
+	<key>MARTIAL ARTS UNIFORM</key>
+	<string>Martial Arts Uniform</string>
+	<key>MATE DRINK</key>
+	<string>Mate Drink</string>
+	<key>MEAT ON BONE</key>
+	<string>Meat On Bone</string>
+	<key>MECHANICAL ARM</key>
+	<string>Mechanical Arm</string>
+	<key>MECHANICAL LEG</key>
+	<string>Mechanical Leg</string>
+	<key>MEDIUM BLACK CIRCLE</key>
+	<string>Medium Black Circle</string>
+	<key>MEDIUM WHITE CIRCLE</key>
+	<string>Medium White Circle</string>
+	<key>MELON</key>
+	<string>Melon</string>
+	<key>MELTING FACE</key>
+	<string>Melting Face</string>
+	<key>MEMO</key>
+	<string>Memo</string>
+	<key>MENORAH WITH NINE BRANCHES</key>
+	<string>Menorah With Nine Branches</string>
+	<key>MENS SYMBOL</key>
+	<string>Mens Symbol</string>
+	<key>MERPERSON</key>
+	<string>Merperson</string>
+	<key>METRO</key>
+	<string>Metro</string>
+	<key>MICROBE</key>
+	<string>Microbe</string>
+	<key>MICROPHONE</key>
+	<string>Microphone</string>
+	<key>MICROSCOPE</key>
+	<string>Microscope</string>
+	<key>MILITARY HELMET</key>
+	<string>Military Helmet</string>
+	<key>MILITARY MEDAL</key>
+	<string>Military Medal</string>
+	<key>MILKY WAY</key>
+	<string>Milky Way</string>
+	<key>MINIBUS</key>
+	<string>Minibus</string>
+	<key>MINIDISC</key>
+	<string>Minidisc</string>
+	<key>MIRROR</key>
+	<string>Mirror</string>
+	<key>MIRROR BALL</key>
+	<string>Mirror Ball</string>
+	<key>MOBILE PHONE</key>
+	<string>Mobile Phone</string>
+	<key>MOBILE PHONE OFF</key>
+	<string>Mobile Phone Off</string>
+	<key>MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT</key>
+	<string>Mobile Phone With Rightwards Arrow At Left</string>
+	<key>MONEY BAG</key>
+	<string>Money Bag</string>
+	<key>MONEY WITH WINGS</key>
+	<string>Money With Wings</string>
+	<key>MONEY-MOUTH FACE</key>
+	<string>Money-mouth Face</string>
+	<key>MONKEY</key>
+	<string>Monkey</string>
+	<key>MONKEY FACE</key>
+	<string>Monkey Face</string>
+	<key>MONORAIL</key>
+	<string>Monorail</string>
+	<key>MOON CAKE</key>
+	<string>Moon Cake</string>
+	<key>MOON VIEWING CEREMONY</key>
+	<string>Moon Viewing Ceremony</string>
+	<key>MOOSE</key>
+	<string>Moose</string>
+	<key>MOSQUE</key>
+	<string>Mosque</string>
+	<key>MOSQUITO</key>
+	<string>Mosquito</string>
+	<key>MOTHER CHRISTMAS</key>
+	<string>Mother Christmas</string>
+	<key>MOTOR BOAT</key>
+	<string>Motor Boat</string>
+	<key>MOTOR SCOOTER</key>
+	<string>Motor Scooter</string>
+	<key>MOTORIZED WHEELCHAIR</key>
+	<string>Motorized Wheelchair</string>
+	<key>MOTORWAY</key>
+	<string>Motorway</string>
+	<key>MOUNT FUJI</key>
+	<string>Mount Fuji</string>
+	<key>MOUNTAIN</key>
+	<string>Mountain</string>
+	<key>MOUNTAIN BICYCLIST</key>
+	<string>Mountain Bicyclist</string>
+	<key>MOUNTAIN CABLEWAY</key>
+	<string>Mountain Cableway</string>
+	<key>MOUNTAIN RAILWAY</key>
+	<string>Mountain Railway</string>
+	<key>MOUSE</key>
+	<string>Mouse</string>
+	<key>MOUSE FACE</key>
+	<string>Mouse Face</string>
+	<key>MOUSE TRAP</key>
+	<string>Mouse Trap</string>
+	<key>MOUTH</key>
+	<string>Mouth</string>
+	<key>MOVIE CAMERA</key>
+	<string>Movie Camera</string>
+	<key>MOYAI</key>
+	<string>Moyai</string>
+	<key>MULTIPLE MUSICAL NOTES</key>
+	<string>Multiple Musical Notes</string>
+	<key>MUSHROOM</key>
+	<string>Mushroom</string>
+	<key>MUSICAL KEYBOARD</key>
+	<string>Musical Keyboard</string>
+	<key>MUSICAL NOTE</key>
+	<string>Musical Note</string>
+	<key>MUSICAL SCORE</key>
+	<string>Musical Score</string>
+	<key>NAIL POLISH</key>
+	<string>Nail Polish</string>
+	<key>NAME BADGE</key>
+	<string>Name Badge</string>
+	<key>NATIONAL PARK</key>
+	<string>National Park</string>
+	<key>NAUSEATED FACE</key>
+	<string>Nauseated Face</string>
+	<key>NAZAR AMULET</key>
+	<string>Nazar Amulet</string>
+	<key>NECKTIE</key>
+	<string>Necktie</string>
+	<key>NEGATIVE SQUARED AB</key>
+	<string>Negative Squared Ab</string>
+	<key>NEGATIVE SQUARED CROSS MARK</key>
+	<string>Negative Squared Cross Mark</string>
+	<key>NEGATIVE SQUARED LATIN CAPITAL LETTER A</key>
+	<string>Negative Squared Latin Capital Letter A</string>
+	<key>NEGATIVE SQUARED LATIN CAPITAL LETTER B</key>
+	<string>Negative Squared Latin Capital Letter B</string>
+	<key>NEGATIVE SQUARED LATIN CAPITAL LETTER O</key>
+	<string>Negative Squared Latin Capital Letter O</string>
+	<key>NEGATIVE SQUARED LATIN CAPITAL LETTER P</key>
+	<string>Negative Squared Latin Capital Letter P</string>
+	<key>NERD FACE</key>
+	<string>Nerd Face</string>
+	<key>NEST WITH EGGS</key>
+	<string>Nest With Eggs</string>
+	<key>NESTING DOLLS</key>
+	<string>Nesting Dolls</string>
+	<key>NEUTRAL FACE</key>
+	<string>Neutral Face</string>
+	<key>NEW MOON SYMBOL</key>
+	<string>New Moon Symbol</string>
+	<key>NEW MOON WITH FACE</key>
+	<string>New Moon With Face</string>
+	<key>NEWSPAPER</key>
+	<string>Newspaper</string>
+	<key>NIGHT WITH STARS</key>
+	<string>Night With Stars</string>
+	<key>NINJA</key>
+	<string>Ninja</string>
+	<key>NO BICYCLES</key>
+	<string>No Bicycles</string>
+	<key>NO ENTRY</key>
+	<string>No Entry</string>
+	<key>NO ENTRY SIGN</key>
+	<string>No Entry Sign</string>
+	<key>NO MOBILE PHONES</key>
+	<string>No Mobile Phones</string>
+	<key>NO ONE UNDER EIGHTEEN SYMBOL</key>
+	<string>No One Under Eighteen Symbol</string>
+	<key>NO PEDESTRIANS</key>
+	<string>No Pedestrians</string>
+	<key>NO SMOKING SYMBOL</key>
+	<string>No Smoking Symbol</string>
+	<key>NON-POTABLE WATER SYMBOL</key>
+	<string>Non-potable Water Symbol</string>
+	<key>NORTH EAST ARROW</key>
+	<string>North East Arrow</string>
+	<key>NORTH WEST ARROW</key>
+	<string>North West Arrow</string>
+	<key>NOSE</key>
+	<string>Nose</string>
+	<key>NOTEBOOK</key>
+	<string>Notebook</string>
+	<key>NOTEBOOK WITH DECORATIVE COVER</key>
+	<string>Notebook With Decorative Cover</string>
+	<key>NUMBER SIGN</key>
+	<string>Number Sign</string>
+	<key>NUT AND BOLT</key>
+	<string>Nut And Bolt</string>
+	<key>OCTAGONAL SIGN</key>
+	<string>Octagonal Sign</string>
+	<key>OCTOPUS</key>
+	<string>Octopus</string>
+	<key>ODEN</key>
+	<string>Oden</string>
+	<key>OFFICE BUILDING</key>
+	<string>Office Building</string>
+	<key>OIL DRUM</key>
+	<string>Oil Drum</string>
+	<key>OK HAND SIGN</key>
+	<string>Ok Hand Sign</string>
+	<key>OLD KEY</key>
+	<string>Old Key</string>
+	<key>OLDER ADULT</key>
+	<string>Older Adult</string>
+	<key>OLDER MAN</key>
+	<string>Older Man</string>
+	<key>OLDER WOMAN</key>
+	<string>Older Woman</string>
+	<key>OLIVE</key>
+	<string>Olive</string>
+	<key>OM SYMBOL</key>
+	<string>Om Symbol</string>
+	<key>ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE</key>
+	<string>On With Exclamation Mark With Left Right Arrow Above</string>
+	<key>ONCOMING AUTOMOBILE</key>
+	<string>Oncoming Automobile</string>
+	<key>ONCOMING BUS</key>
+	<string>Oncoming Bus</string>
+	<key>ONCOMING POLICE CAR</key>
+	<string>Oncoming Police Car</string>
+	<key>ONCOMING TAXI</key>
+	<string>Oncoming Taxi</string>
+	<key>ONE-PIECE SWIMSUIT</key>
+	<string>One-piece Swimsuit</string>
+	<key>ONION</key>
+	<string>Onion</string>
+	<key>OPEN BOOK</key>
+	<string>Open Book</string>
+	<key>OPEN FILE FOLDER</key>
+	<string>Open File Folder</string>
+	<key>OPEN HANDS SIGN</key>
+	<string>Open Hands Sign</string>
+	<key>OPEN LOCK</key>
+	<string>Open Lock</string>
+	<key>OPEN MAILBOX WITH LOWERED FLAG</key>
+	<string>Open Mailbox With Lowered Flag</string>
+	<key>OPEN MAILBOX WITH RAISED FLAG</key>
+	<string>Open Mailbox With Raised Flag</string>
+	<key>OPHIUCHUS</key>
+	<string>Ophiuchus</string>
+	<key>OPTICAL DISC</key>
+	<string>Optical Disc</string>
+	<key>ORANGE BOOK</key>
+	<string>Orange Book</string>
+	<key>ORANGE HEART</key>
+	<string>Orange Heart</string>
+	<key>ORANGUTAN</key>
+	<string>Orangutan</string>
+	<key>ORTHODOX CROSS</key>
+	<string>Orthodox Cross</string>
+	<key>OTTER</key>
+	<string>Otter</string>
+	<key>OUTBOX TRAY</key>
+	<string>Outbox Tray</string>
+	<key>OVERHEATED FACE</key>
+	<string>Overheated Face</string>
+	<key>OWL</key>
+	<string>Owl</string>
+	<key>OX</key>
+	<string>Ox</string>
+	<key>OYSTER</key>
+	<string>Oyster</string>
+	<key>PACKAGE</key>
+	<string>Package</string>
+	<key>PAGE FACING UP</key>
+	<string>Page Facing Up</string>
+	<key>PAGE WITH CURL</key>
+	<string>Page With Curl</string>
+	<key>PAGER</key>
+	<string>Pager</string>
+	<key>PALM DOWN HAND</key>
+	<string>Palm Down Hand</string>
+	<key>PALM TREE</key>
+	<string>Palm Tree</string>
+	<key>PALM UP HAND</key>
+	<string>Palm Up Hand</string>
+	<key>PALMS UP TOGETHER</key>
+	<string>Palms Up Together</string>
+	<key>PANCAKES</key>
+	<string>Pancakes</string>
+	<key>PANDA FACE</key>
+	<string>Panda Face</string>
+	<key>PAPERCLIP</key>
+	<string>Paperclip</string>
+	<key>PARACHUTE</key>
+	<string>Parachute</string>
+	<key>PARROT</key>
+	<string>Parrot</string>
+	<key>PART ALTERNATION MARK</key>
+	<string>Part Alternation Mark</string>
+	<key>PARTY POPPER</key>
+	<string>Party Popper</string>
+	<key>PASSENGER SHIP</key>
+	<string>Passenger Ship</string>
+	<key>PASSPORT CONTROL</key>
+	<string>Passport Control</string>
+	<key>PAW PRINTS</key>
+	<string>Paw Prints</string>
+	<key>PEA POD</key>
+	<string>Pea Pod</string>
+	<key>PEACE SYMBOL</key>
+	<string>Peace Symbol</string>
+	<key>PEACH</key>
+	<string>Peach</string>
+	<key>PEACOCK</key>
+	<string>Peacock</string>
+	<key>PEANUTS</key>
+	<string>Peanuts</string>
+	<key>PEAR</key>
+	<string>Pear</string>
+	<key>PEDESTRIAN</key>
+	<string>Pedestrian</string>
+	<key>PENCIL</key>
+	<string>Pencil</string>
+	<key>PENGUIN</key>
+	<string>Penguin</string>
+	<key>PENSIVE FACE</key>
+	<string>Pensive Face</string>
+	<key>PEOPLE HUGGING</key>
+	<string>People Hugging</string>
+	<key>PERFORMING ARTS</key>
+	<string>Performing Arts</string>
+	<key>PERMANENT PAPER SIGN</key>
+	<string>Permanent Paper Sign</string>
+	<key>PERSEVERING FACE</key>
+	<string>Persevering Face</string>
+	<key>PERSON BOWING DEEPLY</key>
+	<string>Person Bowing Deeply</string>
+	<key>PERSON CLIMBING</key>
+	<string>Person Climbing</string>
+	<key>PERSON DOING CARTWHEEL</key>
+	<string>Person Doing Cartwheel</string>
+	<key>PERSON FROWNING</key>
+	<string>Person Frowning</string>
+	<key>PERSON IN LOTUS POSITION</key>
+	<string>Person In Lotus Position</string>
+	<key>PERSON IN STEAMY ROOM</key>
+	<string>Person In Steamy Room</string>
+	<key>PERSON RAISING BOTH HANDS IN CELEBRATION</key>
+	<string>Person Raising Both Hands In Celebration</string>
+	<key>PERSON WITH BALL</key>
+	<string>Person With Ball</string>
+	<key>PERSON WITH BLOND HAIR</key>
+	<string>Person With Blond Hair</string>
+	<key>PERSON WITH CROWN</key>
+	<string>Person With Crown</string>
+	<key>PERSON WITH FOLDED HANDS</key>
+	<string>Person With Folded Hands</string>
+	<key>PERSON WITH HEADSCARF</key>
+	<string>Person With Headscarf</string>
+	<key>PERSON WITH POUTING FACE</key>
+	<string>Person With Pouting Face</string>
+	<key>PERSONAL COMPUTER</key>
+	<string>Personal Computer</string>
+	<key>PETRI DISH</key>
+	<string>Petri Dish</string>
+	<key>PICK</key>
+	<string>Pick</string>
+	<key>PICKUP TRUCK</key>
+	<string>Pickup Truck</string>
+	<key>PIE</key>
+	<string>Pie</string>
+	<key>PIG</key>
+	<string>Pig</string>
+	<key>PIG FACE</key>
+	<string>Pig Face</string>
+	<key>PIG NOSE</key>
+	<string>Pig Nose</string>
+	<key>PILE OF POO</key>
+	<string>Pile Of Poo</string>
+	<key>PILL</key>
+	<string>Pill</string>
+	<key>PINATA</key>
+	<string>Pinata</string>
+	<key>PINCHED FINGERS</key>
+	<string>Pinched Fingers</string>
+	<key>PINCHING HAND</key>
+	<string>Pinching Hand</string>
+	<key>PINE DECORATION</key>
+	<string>Pine Decoration</string>
+	<key>PINEAPPLE</key>
+	<string>Pineapple</string>
+	<key>PINK HEART</key>
+	<string>Pink Heart</string>
+	<key>PISCES</key>
+	<string>Pisces</string>
+	<key>PISTOL</key>
+	<string>Pistol</string>
+	<key>PLACARD</key>
+	<string>Placard</string>
+	<key>PLACE OF WORSHIP</key>
+	<string>Place Of Worship</string>
+	<key>PLAYGROUND SLIDE</key>
+	<string>Playground Slide</string>
+	<key>PLAYING CARD BLACK JOKER</key>
+	<string>Playing Card Black Joker</string>
+	<key>PLUNGER</key>
+	<string>Plunger</string>
+	<key>POLICE CAR</key>
+	<string>Police Car</string>
+	<key>POLICE CARS REVOLVING LIGHT</key>
+	<string>Police Cars Revolving Light</string>
+	<key>POLICE OFFICER</key>
+	<string>Police Officer</string>
+	<key>POODLE</key>
+	<string>Poodle</string>
+	<key>POPCORN</key>
+	<string>Popcorn</string>
+	<key>POSTAL HORN</key>
+	<string>Postal Horn</string>
+	<key>POSTBOX</key>
+	<string>Postbox</string>
+	<key>POT OF FOOD</key>
+	<string>Pot Of Food</string>
+	<key>POTABLE WATER SYMBOL</key>
+	<string>Potable Water Symbol</string>
+	<key>POTATO</key>
+	<string>Potato</string>
+	<key>POTTED PLANT</key>
+	<string>Potted Plant</string>
+	<key>POUCH</key>
+	<string>Pouch</string>
+	<key>POULTRY LEG</key>
+	<string>Poultry Leg</string>
+	<key>POURING LIQUID</key>
+	<string>Pouring Liquid</string>
+	<key>POUTING CAT FACE</key>
+	<string>Pouting Cat Face</string>
+	<key>POUTING FACE</key>
+	<string>Pouting Face</string>
+	<key>PRAYER BEADS</key>
+	<string>Prayer Beads</string>
+	<key>PREGNANT MAN</key>
+	<string>Pregnant Man</string>
+	<key>PREGNANT PERSON</key>
+	<string>Pregnant Person</string>
+	<key>PREGNANT WOMAN</key>
+	<string>Pregnant Woman</string>
+	<key>PRETZEL</key>
+	<string>Pretzel</string>
+	<key>PRINCE</key>
+	<string>Prince</string>
+	<key>PRINCESS</key>
+	<string>Princess</string>
+	<key>PRINTER</key>
+	<string>Printer</string>
+	<key>PROBING CANE</key>
+	<string>Probing Cane</string>
+	<key>PUBLIC ADDRESS LOUDSPEAKER</key>
+	<string>Public Address Loudspeaker</string>
+	<key>PURPLE HEART</key>
+	<string>Purple Heart</string>
+	<key>PURSE</key>
+	<string>Purse</string>
+	<key>PUSHPIN</key>
+	<string>Pushpin</string>
+	<key>PUT LITTER IN ITS PLACE SYMBOL</key>
+	<string>Put Litter In Its Place Symbol</string>
+	<key>RABBIT</key>
+	<string>Rabbit</string>
+	<key>RABBIT FACE</key>
+	<string>Rabbit Face</string>
+	<key>RACCOON</key>
+	<string>Raccoon</string>
+	<key>RACING CAR</key>
+	<string>Racing Car</string>
+	<key>RACING MOTORCYCLE</key>
+	<string>Racing Motorcycle</string>
+	<key>RADIO</key>
+	<string>Radio</string>
+	<key>RADIO BUTTON</key>
+	<string>Radio Button</string>
+	<key>RADIOACTIVE SIGN</key>
+	<string>Radioactive Sign</string>
+	<key>RAILWAY CAR</key>
+	<string>Railway Car</string>
+	<key>RAILWAY TRACK</key>
+	<string>Railway Track</string>
+	<key>RAINBOW</key>
+	<string>Rainbow</string>
+	<key>RAISED BACK OF HAND</key>
+	<string>Raised Back Of Hand</string>
+	<key>RAISED FIST</key>
+	<string>Raised Fist</string>
+	<key>RAISED HAND</key>
+	<string>Raised Hand</string>
+	<key>RAISED HAND WITH FINGERS SPLAYED</key>
+	<string>Raised Hand With Fingers Splayed</string>
+	<key>RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS</key>
+	<string>Raised Hand With Part Between Middle And Ring Fingers</string>
+	<key>RAM</key>
+	<string>Ram</string>
+	<key>RAT</key>
+	<string>Rat</string>
+	<key>RAZOR</key>
+	<string>Razor</string>
+	<key>RECEIPT</key>
+	<string>Receipt</string>
+	<key>RECREATIONAL VEHICLE</key>
+	<string>Recreational Vehicle</string>
+	<key>RED APPLE</key>
+	<string>Red Apple</string>
+	<key>RED GIFT ENVELOPE</key>
+	<string>Red Gift Envelope</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER A</key>
+	<string>Regional Indicator Symbol Letter A</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER B</key>
+	<string>Regional Indicator Symbol Letter B</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER C</key>
+	<string>Regional Indicator Symbol Letter C</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER D</key>
+	<string>Regional Indicator Symbol Letter D</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER E</key>
+	<string>Regional Indicator Symbol Letter E</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER F</key>
+	<string>Regional Indicator Symbol Letter F</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER G</key>
+	<string>Regional Indicator Symbol Letter G</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER H</key>
+	<string>Regional Indicator Symbol Letter H</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER I</key>
+	<string>Regional Indicator Symbol Letter I</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER J</key>
+	<string>Regional Indicator Symbol Letter J</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER K</key>
+	<string>Regional Indicator Symbol Letter K</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER L</key>
+	<string>Regional Indicator Symbol Letter L</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER M</key>
+	<string>Regional Indicator Symbol Letter M</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER N</key>
+	<string>Regional Indicator Symbol Letter N</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER O</key>
+	<string>Regional Indicator Symbol Letter O</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER P</key>
+	<string>Regional Indicator Symbol Letter P</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER Q</key>
+	<string>Regional Indicator Symbol Letter Q</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER R</key>
+	<string>Regional Indicator Symbol Letter R</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER S</key>
+	<string>Regional Indicator Symbol Letter S</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER T</key>
+	<string>Regional Indicator Symbol Letter T</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER U</key>
+	<string>Regional Indicator Symbol Letter U</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER V</key>
+	<string>Regional Indicator Symbol Letter V</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER W</key>
+	<string>Regional Indicator Symbol Letter W</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER X</key>
+	<string>Regional Indicator Symbol Letter X</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER Y</key>
+	<string>Regional Indicator Symbol Letter Y</string>
+	<key>REGIONAL INDICATOR SYMBOL LETTER Z</key>
+	<string>Regional Indicator Symbol Letter Z</string>
+	<key>REGISTERED SIGN</key>
+	<string>Registered Sign</string>
+	<key>RELIEVED FACE</key>
+	<string>Relieved Face</string>
+	<key>REMINDER RIBBON</key>
+	<string>Reminder Ribbon</string>
+	<key>RESTROOM</key>
+	<string>Restroom</string>
+	<key>REVERSED HAND WITH MIDDLE FINGER EXTENDED</key>
+	<string>Reversed Hand With Middle Finger Extended</string>
+	<key>REVOLVING HEARTS</key>
+	<string>Revolving Hearts</string>
+	<key>RHINOCEROS</key>
+	<string>Rhinoceros</string>
+	<key>RIBBON</key>
+	<string>Ribbon</string>
+	<key>RICE BALL</key>
+	<string>Rice Ball</string>
+	<key>RICE CRACKER</key>
+	<string>Rice Cracker</string>
+	<key>RIGHT ANGER BUBBLE</key>
+	<string>Right Anger Bubble</string>
+	<key>RIGHT-FACING FIST</key>
+	<string>Right-facing Fist</string>
+	<key>RIGHT-POINTING MAGNIFYING GLASS</key>
+	<string>Right-pointing Magnifying Glass</string>
+	<key>RIGHTWARDS ARROW WITH HOOK</key>
+	<string>Rightwards Arrow With Hook</string>
+	<key>RIGHTWARDS HAND</key>
+	<string>Rightwards Hand</string>
+	<key>RIGHTWARDS PUSHING HAND</key>
+	<string>Rightwards Pushing Hand</string>
+	<key>RING</key>
+	<string>Ring</string>
+	<key>RING BUOY</key>
+	<string>Ring Buoy</string>
+	<key>RINGED PLANET</key>
+	<string>Ringed Planet</string>
+	<key>ROASTED SWEET POTATO</key>
+	<string>Roasted Sweet Potato</string>
+	<key>ROBOT FACE</key>
+	<string>Robot Face</string>
+	<key>ROCK</key>
+	<string>Rock</string>
+	<key>ROCKET</key>
+	<string>Rocket</string>
+	<key>ROLL OF PAPER</key>
+	<string>Roll Of Paper</string>
+	<key>ROLLED-UP NEWSPAPER</key>
+	<string>Rolled-up Newspaper</string>
+	<key>ROLLER COASTER</key>
+	<string>Roller Coaster</string>
+	<key>ROLLER SKATE</key>
+	<string>Roller Skate</string>
+	<key>ROLLING ON THE FLOOR LAUGHING</key>
+	<string>Rolling On The Floor Laughing</string>
+	<key>ROOSTER</key>
+	<string>Rooster</string>
+	<key>ROOT VEGETABLE</key>
+	<string>Root Vegetable</string>
+	<key>ROSE</key>
+	<string>Rose</string>
+	<key>ROSETTE</key>
+	<string>Rosette</string>
+	<key>ROUND PUSHPIN</key>
+	<string>Round Pushpin</string>
+	<key>ROWBOAT</key>
+	<string>Rowboat</string>
+	<key>RUGBY FOOTBALL</key>
+	<string>Rugby Football</string>
+	<key>RUNNER</key>
+	<string>Runner</string>
+	<key>RUNNING SHIRT WITH SASH</key>
+	<string>Running Shirt With Sash</string>
+	<key>SAFETY PIN</key>
+	<string>Safety Pin</string>
+	<key>SAFETY VEST</key>
+	<string>Safety Vest</string>
+	<key>SAGITTARIUS</key>
+	<string>Sagittarius</string>
+	<key>SAILBOAT</key>
+	<string>Sailboat</string>
+	<key>SAKE BOTTLE AND CUP</key>
+	<string>Sake Bottle And Cup</string>
+	<key>SALT SHAKER</key>
+	<string>Salt Shaker</string>
+	<key>SALUTING FACE</key>
+	<string>Saluting Face</string>
+	<key>SANDWICH</key>
+	<string>Sandwich</string>
+	<key>SARI</key>
+	<string>Sari</string>
+	<key>SATELLITE</key>
+	<string>Satellite</string>
+	<key>SATELLITE ANTENNA</key>
+	<string>Satellite Antenna</string>
+	<key>SAUROPOD</key>
+	<string>Sauropod</string>
+	<key>SAXOPHONE</key>
+	<string>Saxophone</string>
+	<key>SCALES</key>
+	<string>Scales</string>
+	<key>SCARF</key>
+	<string>Scarf</string>
+	<key>SCHOOL</key>
+	<string>School</string>
+	<key>SCHOOL SATCHEL</key>
+	<string>School Satchel</string>
+	<key>SCOOTER</key>
+	<string>Scooter</string>
+	<key>SCORPION</key>
+	<string>Scorpion</string>
+	<key>SCORPIUS</key>
+	<string>Scorpius</string>
+	<key>SCREWDRIVER</key>
+	<string>Screwdriver</string>
+	<key>SCROLL</key>
+	<string>Scroll</string>
+	<key>SEAL</key>
+	<string>Seal</string>
+	<key>SEAT</key>
+	<string>Seat</string>
+	<key>SECOND PLACE MEDAL</key>
+	<string>Second Place Medal</string>
+	<key>SEE-NO-EVIL MONKEY</key>
+	<string>See-no-evil Monkey</string>
+	<key>SEEDLING</key>
+	<string>Seedling</string>
+	<key>SELFIE</key>
+	<string>Selfie</string>
+	<key>SERIOUS FACE WITH SYMBOLS COVERING MOUTH</key>
+	<string>Serious Face With Symbols Covering Mouth</string>
+	<key>SEWING NEEDLE</key>
+	<string>Sewing Needle</string>
+	<key>SHAKING FACE</key>
+	<string>Shaking Face</string>
+	<key>SHALLOW PAN OF FOOD</key>
+	<string>Shallow Pan Of Food</string>
+	<key>SHAMROCK</key>
+	<string>Shamrock</string>
+	<key>SHARK</key>
+	<string>Shark</string>
+	<key>SHAVED ICE</key>
+	<string>Shaved Ice</string>
+	<key>SHEEP</key>
+	<string>Sheep</string>
+	<key>SHIELD</key>
+	<string>Shield</string>
+	<key>SHINTO SHRINE</key>
+	<string>Shinto Shrine</string>
+	<key>SHIP</key>
+	<string>Ship</string>
+	<key>SHOCKED FACE WITH EXPLODING HEAD</key>
+	<string>Shocked Face With Exploding Head</string>
+	<key>SHOOTING STAR</key>
+	<string>Shooting Star</string>
+	<key>SHOPPING BAGS</key>
+	<string>Shopping Bags</string>
+	<key>SHOPPING TROLLEY</key>
+	<string>Shopping Trolley</string>
+	<key>SHORTCAKE</key>
+	<string>Shortcake</string>
+	<key>SHORTS</key>
+	<string>Shorts</string>
+	<key>SHOVEL</key>
+	<string>Shovel</string>
+	<key>SHOWER</key>
+	<string>Shower</string>
+	<key>SHRIMP</key>
+	<string>Shrimp</string>
+	<key>SHRUG</key>
+	<string>Shrug</string>
+	<key>SIGN OF THE HORNS</key>
+	<string>Sign Of The Horns</string>
+	<key>SILHOUETTE OF JAPAN</key>
+	<string>Silhouette Of Japan</string>
+	<key>SIX POINTED STAR WITH MIDDLE DOT</key>
+	<string>Six Pointed Star With Middle Dot</string>
+	<key>SKATEBOARD</key>
+	<string>Skateboard</string>
+	<key>SKI AND SKI BOOT</key>
+	<string>Ski And Ski Boot</string>
+	<key>SKIER</key>
+	<string>Skier</string>
+	<key>SKULL</key>
+	<string>Skull</string>
+	<key>SKULL AND CROSSBONES</key>
+	<string>Skull And Crossbones</string>
+	<key>SKUNK</key>
+	<string>Skunk</string>
+	<key>SLED</key>
+	<string>Sled</string>
+	<key>SLEEPING ACCOMMODATION</key>
+	<string>Sleeping Accommodation</string>
+	<key>SLEEPING FACE</key>
+	<string>Sleeping Face</string>
+	<key>SLEEPING SYMBOL</key>
+	<string>Sleeping Symbol</string>
+	<key>SLEEPY FACE</key>
+	<string>Sleepy Face</string>
+	<key>SLEUTH OR SPY</key>
+	<string>Sleuth Or Spy</string>
+	<key>SLICE OF PIZZA</key>
+	<string>Slice Of Pizza</string>
+	<key>SLIGHTLY FROWNING FACE</key>
+	<string>Slightly Frowning Face</string>
+	<key>SLIGHTLY SMILING FACE</key>
+	<string>Slightly Smiling Face</string>
+	<key>SLOT MACHINE</key>
+	<string>Slot Machine</string>
+	<key>SLOTH</key>
+	<string>Sloth</string>
+	<key>SMALL AIRPLANE</key>
+	<string>Small Airplane</string>
+	<key>SMALL BLUE DIAMOND</key>
+	<string>Small Blue Diamond</string>
+	<key>SMALL ORANGE DIAMOND</key>
+	<string>Small Orange Diamond</string>
+	<key>SMILING CAT FACE WITH HEART-SHAPED EYES</key>
+	<string>Smiling Cat Face With Heart-shaped Eyes</string>
+	<key>SMILING CAT FACE WITH OPEN MOUTH</key>
+	<string>Smiling Cat Face With Open Mouth</string>
+	<key>SMILING FACE WITH HALO</key>
+	<string>Smiling Face With Halo</string>
+	<key>SMILING FACE WITH HEART-SHAPED EYES</key>
+	<string>Smiling Face With Heart-shaped Eyes</string>
+	<key>SMILING FACE WITH HORNS</key>
+	<string>Smiling Face With Horns</string>
+	<key>SMILING FACE WITH OPEN MOUTH</key>
+	<string>Smiling Face With Open Mouth</string>
+	<key>SMILING FACE WITH OPEN MOUTH AND COLD SWEAT</key>
+	<string>Smiling Face With Open Mouth And Cold Sweat</string>
+	<key>SMILING FACE WITH OPEN MOUTH AND SMILING EYES</key>
+	<string>Smiling Face With Open Mouth And Smiling Eyes</string>
+	<key>SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES</key>
+	<string>Smiling Face With Open Mouth And Tightly-closed Eyes</string>
+	<key>SMILING FACE WITH SMILING EYES</key>
+	<string>Smiling Face With Smiling Eyes</string>
+	<key>SMILING FACE WITH SMILING EYES AND HAND COVERING MOUTH</key>
+	<string>Smiling Face With Smiling Eyes And Hand Covering Mouth</string>
+	<key>SMILING FACE WITH SMILING EYES AND THREE HEARTS</key>
+	<string>Smiling Face With Smiling Eyes And Three Hearts</string>
+	<key>SMILING FACE WITH SUNGLASSES</key>
+	<string>Smiling Face With Sunglasses</string>
+	<key>SMILING FACE WITH TEAR</key>
+	<string>Smiling Face With Tear</string>
+	<key>SMIRKING FACE</key>
+	<string>Smirking Face</string>
+	<key>SMOKING SYMBOL</key>
+	<string>Smoking Symbol</string>
+	<key>SNAIL</key>
+	<string>Snail</string>
+	<key>SNAKE</key>
+	<string>Snake</string>
+	<key>SNEEZING FACE</key>
+	<string>Sneezing Face</string>
+	<key>SNOW CAPPED MOUNTAIN</key>
+	<string>Snow Capped Mountain</string>
+	<key>SNOWBOARDER</key>
+	<string>Snowboarder</string>
+	<key>SNOWFLAKE</key>
+	<string>Snowflake</string>
+	<key>SNOWMAN</key>
+	<string>Snowman</string>
+	<key>SNOWMAN WITHOUT SNOW</key>
+	<string>Snowman Without Snow</string>
+	<key>SOCCER BALL</key>
+	<string>Soccer Ball</string>
+	<key>SOCKS</key>
+	<string>Socks</string>
+	<key>SOFT ICE CREAM</key>
+	<string>Soft Ice Cream</string>
+	<key>SOFTBALL</key>
+	<string>Softball</string>
+	<key>SOON WITH RIGHTWARDS ARROW ABOVE</key>
+	<string>Soon With Rightwards Arrow Above</string>
+	<key>SOUTH EAST ARROW</key>
+	<string>South East Arrow</string>
+	<key>SOUTH WEST ARROW</key>
+	<string>South West Arrow</string>
+	<key>SPACE</key>
+	<string>Space</string>
+	<key>SPAGHETTI</key>
+	<string>Spaghetti</string>
+	<key>SPARKLE</key>
+	<string>Sparkle</string>
+	<key>SPARKLES</key>
+	<string>Sparkles</string>
+	<key>SPARKLING HEART</key>
+	<string>Sparkling Heart</string>
+	<key>SPEAK-NO-EVIL MONKEY</key>
+	<string>Speak-no-evil Monkey</string>
+	<key>SPEAKER</key>
+	<string>Speaker</string>
+	<key>SPEAKER WITH CANCELLATION STROKE</key>
+	<string>Speaker With Cancellation Stroke</string>
+	<key>SPEAKER WITH ONE SOUND WAVE</key>
+	<string>Speaker With One Sound Wave</string>
+	<key>SPEAKER WITH THREE SOUND WAVES</key>
+	<string>Speaker With Three Sound Waves</string>
+	<key>SPEAKING HEAD IN SILHOUETTE</key>
+	<string>Speaking Head In Silhouette</string>
+	<key>SPEECH BALLOON</key>
+	<string>Speech Balloon</string>
+	<key>SPEEDBOAT</key>
+	<string>Speedboat</string>
+	<key>SPIDER</key>
+	<string>Spider</string>
+	<key>SPIDER WEB</key>
+	<string>Spider Web</string>
+	<key>SPIRAL CALENDAR PAD</key>
+	<string>Spiral Calendar Pad</string>
+	<key>SPIRAL NOTE PAD</key>
+	<string>Spiral Note Pad</string>
+	<key>SPIRAL SHELL</key>
+	<string>Spiral Shell</string>
+	<key>SPLASHING SWEAT SYMBOL</key>
+	<string>Splashing Sweat Symbol</string>
+	<key>SPLATTER</key>
+	<string>Splatter</string>
+	<key>SPONGE</key>
+	<string>Sponge</string>
+	<key>SPOOL OF THREAD</key>
+	<string>Spool Of Thread</string>
+	<key>SPOON</key>
+	<string>Spoon</string>
+	<key>SPORTS MEDAL</key>
+	<string>Sports Medal</string>
+	<key>SPOUTING WHALE</key>
+	<string>Spouting Whale</string>
+	<key>SQUARED CJK UNIFIED IDEOGRAPH-5272</key>
+	<string>Squared Cjk Unified Ideograph-5272</string>
+	<key>SQUARED CJK UNIFIED IDEOGRAPH-5408</key>
+	<string>Squared Cjk Unified Ideograph-5408</string>
+	<key>SQUARED CJK UNIFIED IDEOGRAPH-55B6</key>
+	<string>Squared Cjk Unified Ideograph-55b6</string>
+	<key>SQUARED CJK UNIFIED IDEOGRAPH-6307</key>
+	<string>Squared Cjk Unified Ideograph-6307</string>
+	<key>SQUARED CJK UNIFIED IDEOGRAPH-6708</key>
+	<string>Squared Cjk Unified Ideograph-6708</string>
+	<key>SQUARED CJK UNIFIED IDEOGRAPH-6709</key>
+	<string>Squared Cjk Unified Ideograph-6709</string>
+	<key>SQUARED CJK UNIFIED IDEOGRAPH-6E80</key>
+	<string>Squared Cjk Unified Ideograph-6e80</string>
+	<key>SQUARED CJK UNIFIED IDEOGRAPH-7121</key>
+	<string>Squared Cjk Unified Ideograph-7121</string>
+	<key>SQUARED CJK UNIFIED IDEOGRAPH-7533</key>
+	<string>Squared Cjk Unified Ideograph-7533</string>
+	<key>SQUARED CJK UNIFIED IDEOGRAPH-7981</key>
+	<string>Squared Cjk Unified Ideograph-7981</string>
+	<key>SQUARED CJK UNIFIED IDEOGRAPH-7A7A</key>
+	<string>Squared Cjk Unified Ideograph-7a7a</string>
+	<key>SQUARED CL</key>
+	<string>Squared Cl</string>
+	<key>SQUARED COOL</key>
+	<string>Squared Cool</string>
+	<key>SQUARED FREE</key>
+	<string>Squared Free</string>
+	<key>SQUARED ID</key>
+	<string>Squared Id</string>
+	<key>SQUARED KATAKANA KOKO</key>
+	<string>Squared Katakana Koko</string>
+	<key>SQUARED KATAKANA SA</key>
+	<string>Squared Katakana Sa</string>
+	<key>SQUARED NEW</key>
+	<string>Squared New</string>
+	<key>SQUARED NG</key>
+	<string>Squared Ng</string>
+	<key>SQUARED OK</key>
+	<string>Squared Ok</string>
+	<key>SQUARED SOS</key>
+	<string>Squared Sos</string>
+	<key>SQUARED UP WITH EXCLAMATION MARK</key>
+	<string>Squared Up With Exclamation Mark</string>
+	<key>SQUARED VS</key>
+	<string>Squared Vs</string>
+	<key>SQUID</key>
+	<string>Squid</string>
+	<key>STADIUM</key>
+	<string>Stadium</string>
+	<key>STAFF OF AESCULAPIUS</key>
+	<string>Staff Of Aesculapius</string>
+	<key>STANDING PERSON</key>
+	<string>Standing Person</string>
+	<key>STAR AND CRESCENT</key>
+	<string>Star And Crescent</string>
+	<key>STAR OF DAVID</key>
+	<string>Star Of David</string>
+	<key>STATION</key>
+	<string>Station</string>
+	<key>STATUE OF LIBERTY</key>
+	<string>Statue Of Liberty</string>
+	<key>STEAM LOCOMOTIVE</key>
+	<string>Steam Locomotive</string>
+	<key>STEAMING BOWL</key>
+	<string>Steaming Bowl</string>
+	<key>STETHOSCOPE</key>
+	<string>Stethoscope</string>
+	<key>STOPWATCH</key>
+	<string>Stopwatch</string>
+	<key>STRAIGHT RULER</key>
+	<string>Straight Ruler</string>
+	<key>STRAWBERRY</key>
+	<string>Strawberry</string>
+	<key>STUDIO MICROPHONE</key>
+	<string>Studio Microphone</string>
+	<key>STUFFED FLATBREAD</key>
+	<string>Stuffed Flatbread</string>
+	<key>SUN BEHIND CLOUD</key>
+	<string>Sun Behind Cloud</string>
+	<key>SUN WITH FACE</key>
+	<string>Sun With Face</string>
+	<key>SUNFLOWER</key>
+	<string>Sunflower</string>
+	<key>SUNRISE</key>
+	<string>Sunrise</string>
+	<key>SUNRISE OVER MOUNTAINS</key>
+	<string>Sunrise Over Mountains</string>
+	<key>SUNSET OVER BUILDINGS</key>
+	<string>Sunset Over Buildings</string>
+	<key>SUPERHERO</key>
+	<string>Superhero</string>
+	<key>SUPERVILLAIN</key>
+	<string>Supervillain</string>
+	<key>SURFER</key>
+	<string>Surfer</string>
+	<key>SUSHI</key>
+	<string>Sushi</string>
+	<key>SUSPENSION RAILWAY</key>
+	<string>Suspension Railway</string>
+	<key>SWAN</key>
+	<string>Swan</string>
+	<key>SWIMMER</key>
+	<string>Swimmer</string>
+	<key>SYNAGOGUE</key>
+	<string>Synagogue</string>
+	<key>SYRINGE</key>
+	<string>Syringe</string>
+	<key>T-REX</key>
+	<string>T-rex</string>
+	<key>T-SHIRT</key>
+	<string>T-shirt</string>
+	<key>TABLE TENNIS PADDLE AND BALL</key>
+	<string>Table Tennis Paddle And Ball</string>
+	<key>TACO</key>
+	<string>Taco</string>
+	<key>TAG LATIN SMALL LETTER A</key>
+	<string>Tag Latin Small Letter A</string>
+	<key>TAG LATIN SMALL LETTER B</key>
+	<string>Tag Latin Small Letter B</string>
+	<key>TAG LATIN SMALL LETTER C</key>
+	<string>Tag Latin Small Letter C</string>
+	<key>TAG LATIN SMALL LETTER D</key>
+	<string>Tag Latin Small Letter D</string>
+	<key>TAG LATIN SMALL LETTER E</key>
+	<string>Tag Latin Small Letter E</string>
+	<key>TAG LATIN SMALL LETTER F</key>
+	<string>Tag Latin Small Letter F</string>
+	<key>TAG LATIN SMALL LETTER G</key>
+	<string>Tag Latin Small Letter G</string>
+	<key>TAG LATIN SMALL LETTER H</key>
+	<string>Tag Latin Small Letter H</string>
+	<key>TAG LATIN SMALL LETTER I</key>
+	<string>Tag Latin Small Letter I</string>
+	<key>TAG LATIN SMALL LETTER J</key>
+	<string>Tag Latin Small Letter J</string>
+	<key>TAG LATIN SMALL LETTER K</key>
+	<string>Tag Latin Small Letter K</string>
+	<key>TAG LATIN SMALL LETTER L</key>
+	<string>Tag Latin Small Letter L</string>
+	<key>TAG LATIN SMALL LETTER M</key>
+	<string>Tag Latin Small Letter M</string>
+	<key>TAG LATIN SMALL LETTER N</key>
+	<string>Tag Latin Small Letter N</string>
+	<key>TAG LATIN SMALL LETTER O</key>
+	<string>Tag Latin Small Letter O</string>
+	<key>TAG LATIN SMALL LETTER P</key>
+	<string>Tag Latin Small Letter P</string>
+	<key>TAG LATIN SMALL LETTER Q</key>
+	<string>Tag Latin Small Letter Q</string>
+	<key>TAG LATIN SMALL LETTER R</key>
+	<string>Tag Latin Small Letter R</string>
+	<key>TAG LATIN SMALL LETTER S</key>
+	<string>Tag Latin Small Letter S</string>
+	<key>TAG LATIN SMALL LETTER T</key>
+	<string>Tag Latin Small Letter T</string>
+	<key>TAG LATIN SMALL LETTER U</key>
+	<string>Tag Latin Small Letter U</string>
+	<key>TAG LATIN SMALL LETTER V</key>
+	<string>Tag Latin Small Letter V</string>
+	<key>TAG LATIN SMALL LETTER W</key>
+	<string>Tag Latin Small Letter W</string>
+	<key>TAG LATIN SMALL LETTER X</key>
+	<string>Tag Latin Small Letter X</string>
+	<key>TAG LATIN SMALL LETTER Y</key>
+	<string>Tag Latin Small Letter Y</string>
+	<key>TAG LATIN SMALL LETTER Z</key>
+	<string>Tag Latin Small Letter Z</string>
+	<key>TAKEOUT BOX</key>
+	<string>Takeout Box</string>
+	<key>TAMALE</key>
+	<string>Tamale</string>
+	<key>TANABATA TREE</key>
+	<string>Tanabata Tree</string>
+	<key>TANGERINE</key>
+	<string>Tangerine</string>
+	<key>TAURUS</key>
+	<string>Taurus</string>
+	<key>TAXI</key>
+	<string>Taxi</string>
+	<key>TEACUP WITHOUT HANDLE</key>
+	<string>Teacup Without Handle</string>
+	<key>TEAPOT</key>
+	<string>Teapot</string>
+	<key>TEAR-OFF CALENDAR</key>
+	<string>Tear-off Calendar</string>
+	<key>TEDDY BEAR</key>
+	<string>Teddy Bear</string>
+	<key>TELEPHONE RECEIVER</key>
+	<string>Telephone Receiver</string>
+	<key>TELESCOPE</key>
+	<string>Telescope</string>
+	<key>TELEVISION</key>
+	<string>Television</string>
+	<key>TENNIS RACQUET AND BALL</key>
+	<string>Tennis Racquet And Ball</string>
+	<key>TENT</key>
+	<string>Tent</string>
+	<key>TEST TUBE</key>
+	<string>Test Tube</string>
+	<key>THERMOMETER</key>
+	<string>Thermometer</string>
+	<key>THINKING FACE</key>
+	<string>Thinking Face</string>
+	<key>THIRD PLACE MEDAL</key>
+	<string>Third Place Medal</string>
+	<key>THONG SANDAL</key>
+	<string>Thong Sandal</string>
+	<key>THOUGHT BALLOON</key>
+	<string>Thought Balloon</string>
+	<key>THREE BUTTON MOUSE</key>
+	<string>Three Button Mouse</string>
+	<key>THUMBS DOWN SIGN</key>
+	<string>Thumbs Down Sign</string>
+	<key>THUMBS UP SIGN</key>
+	<string>Thumbs Up Sign</string>
+	<key>THUNDER CLOUD AND RAIN</key>
+	<string>Thunder Cloud And Rain</string>
+	<key>TICKET</key>
+	<string>Ticket</string>
+	<key>TIGER</key>
+	<string>Tiger</string>
+	<key>TIGER FACE</key>
+	<string>Tiger Face</string>
+	<key>TIMER CLOCK</key>
+	<string>Timer Clock</string>
+	<key>TIRED FACE</key>
+	<string>Tired Face</string>
+	<key>TOILET</key>
+	<string>Toilet</string>
+	<key>TOKYO TOWER</key>
+	<string>Tokyo Tower</string>
+	<key>TOMATO</key>
+	<string>Tomato</string>
+	<key>TONGUE</key>
+	<string>Tongue</string>
+	<key>TOOLBOX</key>
+	<string>Toolbox</string>
+	<key>TOOTH</key>
+	<string>Tooth</string>
+	<key>TOOTHBRUSH</key>
+	<string>Toothbrush</string>
+	<key>TOP HAT</key>
+	<string>Top Hat</string>
+	<key>TOP WITH UPWARDS ARROW ABOVE</key>
+	<string>Top With Upwards Arrow Above</string>
+	<key>TRACKBALL</key>
+	<string>Trackball</string>
+	<key>TRACTOR</key>
+	<string>Tractor</string>
+	<key>TRADE MARK SIGN</key>
+	<string>Trade Mark Sign</string>
+	<key>TRAIN</key>
+	<string>Train</string>
+	<key>TRAM</key>
+	<string>Tram</string>
+	<key>TRAM CAR</key>
+	<string>Tram Car</string>
+	<key>TRIANGULAR FLAG ON POST</key>
+	<string>Triangular Flag On Post</string>
+	<key>TRIANGULAR RULER</key>
+	<string>Triangular Ruler</string>
+	<key>TRIDENT EMBLEM</key>
+	<string>Trident Emblem</string>
+	<key>TROLL</key>
+	<string>Troll</string>
+	<key>TROLLEYBUS</key>
+	<string>Trolleybus</string>
+	<key>TROPHY</key>
+	<string>Trophy</string>
+	<key>TROPICAL DRINK</key>
+	<string>Tropical Drink</string>
+	<key>TROPICAL FISH</key>
+	<string>Tropical Fish</string>
+	<key>TRUMPET</key>
+	<string>Trumpet</string>
+	<key>TULIP</key>
+	<string>Tulip</string>
+	<key>TUMBLER GLASS</key>
+	<string>Tumbler Glass</string>
+	<key>TURKEY</key>
+	<string>Turkey</string>
+	<key>TURTLE</key>
+	<string>Turtle</string>
+	<key>TWISTED RIGHTWARDS ARROWS</key>
+	<string>Twisted Rightwards Arrows</string>
+	<key>TWO HEARTS</key>
+	<string>Two Hearts</string>
+	<key>TWO MEN HOLDING HANDS</key>
+	<string>Two Men Holding Hands</string>
+	<key>TWO WOMEN HOLDING HANDS</key>
+	<string>Two Women Holding Hands</string>
+	<key>UMBRELLA</key>
+	<string>Umbrella</string>
+	<key>UMBRELLA ON GROUND</key>
+	<string>Umbrella On Ground</string>
+	<key>UMBRELLA WITH RAIN DROPS</key>
+	<string>Umbrella With Rain Drops</string>
+	<key>UNAMUSED FACE</key>
+	<string>Unamused Face</string>
+	<key>UNICORN FACE</key>
+	<string>Unicorn Face</string>
+	<key>UP DOWN ARROW</key>
+	<string>Up Down Arrow</string>
+	<key>UP-POINTING RED TRIANGLE</key>
+	<string>Up-pointing Red Triangle</string>
+	<key>UP-POINTING SMALL RED TRIANGLE</key>
+	<string>Up-pointing Small Red Triangle</string>
+	<key>UPSIDE-DOWN FACE</key>
+	<string>Upside-down Face</string>
+	<key>UPWARDS BLACK ARROW</key>
+	<string>Upwards Black Arrow</string>
+	<key>VAMPIRE</key>
+	<string>Vampire</string>
+	<key>VERTICAL TRAFFIC LIGHT</key>
+	<string>Vertical Traffic Light</string>
+	<key>VIBRATION MODE</key>
+	<string>Vibration Mode</string>
+	<key>VICTORY HAND</key>
+	<string>Victory Hand</string>
+	<key>VIDEO CAMERA</key>
+	<string>Video Camera</string>
+	<key>VIDEO GAME</key>
+	<string>Video Game</string>
+	<key>VIDEOCASSETTE</key>
+	<string>Videocassette</string>
+	<key>VIOLIN</key>
+	<string>Violin</string>
+	<key>VIRGO</key>
+	<string>Virgo</string>
+	<key>VOLCANO</key>
+	<string>Volcano</string>
+	<key>VOLLEYBALL</key>
+	<string>Volleyball</string>
+	<key>WAFFLE</key>
+	<string>Waffle</string>
+	<key>WANING CRESCENT MOON SYMBOL</key>
+	<string>Waning Crescent Moon Symbol</string>
+	<key>WANING GIBBOUS MOON SYMBOL</key>
+	<string>Waning Gibbous Moon Symbol</string>
+	<key>WARNING SIGN</key>
+	<string>Warning Sign</string>
+	<key>WASTEBASKET</key>
+	<string>Wastebasket</string>
+	<key>WATCH</key>
+	<string>Watch</string>
+	<key>WATER BUFFALO</key>
+	<string>Water Buffalo</string>
+	<key>WATER CLOSET</key>
+	<string>Water Closet</string>
+	<key>WATER POLO</key>
+	<string>Water Polo</string>
+	<key>WATER WAVE</key>
+	<string>Water Wave</string>
+	<key>WATERMELON</key>
+	<string>Watermelon</string>
+	<key>WAVING BLACK FLAG</key>
+	<string>Waving Black Flag</string>
+	<key>WAVING HAND SIGN</key>
+	<string>Waving Hand Sign</string>
+	<key>WAVING WHITE FLAG</key>
+	<string>Waving White Flag</string>
+	<key>WAVY DASH</key>
+	<string>Wavy Dash</string>
+	<key>WAXING CRESCENT MOON SYMBOL</key>
+	<string>Waxing Crescent Moon Symbol</string>
+	<key>WAXING GIBBOUS MOON SYMBOL</key>
+	<string>Waxing Gibbous Moon Symbol</string>
+	<key>WEARY CAT FACE</key>
+	<string>Weary Cat Face</string>
+	<key>WEARY FACE</key>
+	<string>Weary Face</string>
+	<key>WEDDING</key>
+	<string>Wedding</string>
+	<key>WEIGHT LIFTER</key>
+	<string>Weight Lifter</string>
+	<key>WHALE</key>
+	<string>Whale</string>
+	<key>WHEEL</key>
+	<string>Wheel</string>
+	<key>WHEEL OF DHARMA</key>
+	<string>Wheel Of Dharma</string>
+	<key>WHEELCHAIR SYMBOL</key>
+	<string>Wheelchair Symbol</string>
+	<key>WHITE DOWN POINTING BACKHAND INDEX</key>
+	<string>White Down Pointing Backhand Index</string>
+	<key>WHITE EXCLAMATION MARK ORNAMENT</key>
+	<string>White Exclamation Mark Ornament</string>
+	<key>WHITE FLOWER</key>
+	<string>White Flower</string>
+	<key>WHITE FROWNING FACE</key>
+	<string>White Frowning Face</string>
+	<key>WHITE HEART</key>
+	<string>White Heart</string>
+	<key>WHITE HEAVY CHECK MARK</key>
+	<string>White Heavy Check Mark</string>
+	<key>WHITE LARGE SQUARE</key>
+	<string>White Large Square</string>
+	<key>WHITE LEFT POINTING BACKHAND INDEX</key>
+	<string>White Left Pointing Backhand Index</string>
+	<key>WHITE MEDIUM SMALL SQUARE</key>
+	<string>White Medium Small Square</string>
+	<key>WHITE MEDIUM SQUARE</key>
+	<string>White Medium Square</string>
+	<key>WHITE MEDIUM STAR</key>
+	<string>White Medium Star</string>
+	<key>WHITE QUESTION MARK ORNAMENT</key>
+	<string>White Question Mark Ornament</string>
+	<key>WHITE RIGHT POINTING BACKHAND INDEX</key>
+	<string>White Right Pointing Backhand Index</string>
+	<key>WHITE SMALL SQUARE</key>
+	<string>White Small Square</string>
+	<key>WHITE SMILING FACE</key>
+	<string>White Smiling Face</string>
+	<key>WHITE SQUARE BUTTON</key>
+	<string>White Square Button</string>
+	<key>WHITE SUN BEHIND CLOUD</key>
+	<string>White Sun Behind Cloud</string>
+	<key>WHITE SUN BEHIND CLOUD WITH RAIN</key>
+	<string>White Sun Behind Cloud With Rain</string>
+	<key>WHITE SUN WITH SMALL CLOUD</key>
+	<string>White Sun With Small Cloud</string>
+	<key>WHITE UP POINTING BACKHAND INDEX</key>
+	<string>White Up Pointing Backhand Index</string>
+	<key>WHITE UP POINTING INDEX</key>
+	<string>White Up Pointing Index</string>
+	<key>WILTED FLOWER</key>
+	<string>Wilted Flower</string>
+	<key>WIND BLOWING FACE</key>
+	<string>Wind Blowing Face</string>
+	<key>WIND CHIME</key>
+	<string>Wind Chime</string>
+	<key>WINDOW</key>
+	<string>Window</string>
+	<key>WINE GLASS</key>
+	<string>Wine Glass</string>
+	<key>WING</key>
+	<string>Wing</string>
+	<key>WINKING FACE</key>
+	<string>Winking Face</string>
+	<key>WIRELESS</key>
+	<string>Wireless</string>
+	<key>WOLF FACE</key>
+	<string>Wolf Face</string>
+	<key>WOMAN</key>
+	<string>Woman</string>
+	<key>WOMAN WITH BUNNY EARS</key>
+	<string>Woman With Bunny Ears</string>
+	<key>WOMANS BOOTS</key>
+	<string>Womans Boots</string>
+	<key>WOMANS CLOTHES</key>
+	<string>Womans Clothes</string>
+	<key>WOMANS HAT</key>
+	<string>Womans Hat</string>
+	<key>WOMANS SANDAL</key>
+	<string>Womans Sandal</string>
+	<key>WOMENS SYMBOL</key>
+	<string>Womens Symbol</string>
+	<key>WOOD</key>
+	<string>Wood</string>
+	<key>WORLD MAP</key>
+	<string>World Map</string>
+	<key>WORM</key>
+	<string>Worm</string>
+	<key>WORRIED FACE</key>
+	<string>Worried Face</string>
+	<key>WRAPPED PRESENT</key>
+	<string>Wrapped Present</string>
+	<key>WRENCH</key>
+	<string>Wrench</string>
+	<key>WRESTLERS</key>
+	<string>Wrestlers</string>
+	<key>WRITING HAND</key>
+	<string>Writing Hand</string>
+	<key>X-RAY</key>
+	<string>X-ray</string>
+	<key>YAWNING FACE</key>
+	<string>Yawning Face</string>
+	<key>YELLOW HEART</key>
+	<string>Yellow Heart</string>
+	<key>YIN YANG</key>
+	<string>Yin Yang</string>
+	<key>YO-YO</key>
+	<string>Yo-yo</string>
+	<key>ZEBRA FACE</key>
+	<string>Zebra Face</string>
+	<key>ZIPPER-MOUTH FACE</key>
+	<string>Zipper-mouth Face</string>
+	<key>ZOMBIE</key>
+	<string>Zombie</string>
+</dict>
+</plist>
